@@ -7,6 +7,9 @@ This course will explore the fundamental concepts and methods of digital media a
 
 ## Course Learning Outcome (CLO)
 Upon successful completion of this course, students are able to:
+
+**CLO1** | Use Adobe Photoshop and Illustrator to generate rasterized and vector images for web and print.
+
 **CLO2** | Develop an introductory understanding of HTML5 and CSS3.
 
 **CLO3** | Use free, open-source, and demo software to expand software literacy.
@@ -20,3 +23,20 @@ Upon successful completion of this course, students are able to:
 **CLO7** | Develop a working understanding of software culture, open-source, and emergent social media with an emphasis on digital publics in the 21st century.
 
 **CLO8** | Establish nomenclature and a working understanding of digital media artworks and processes used by contemporary practitioners in the field including non-linear, networked, interactive, environmental, performance, projection, sound, physical computing and code-based methods of digital media art production.
+
+## Reading and Technology Requirements
+### Textbook
+No textbook required for this course.
+
+### Other Readings
+Assigned readings will be made available on the class GitHub in PDF format. Reading is crucial to success in this course and developing an understanding of course content. Some reading material will be videos which students are required to submit their responses to those as well.
+
+### Technology Requirements/Software
+This course requires access to a computer which can support Adobe software. SJSU students can download the current edition of Adobe Creative Suite for free. [](http://www.sjsu.edu/ecampus/teaching-tools/adobe/index.html) Mandatory Apps from the Adobe Creative Suite include Photoshop, Illustrator, and Premiere. If you do not have a computer or the software mentioned above, you have access to the CADRE computer labs and the University computers to complete your work. We will also be using these free/open-source programs:
+1. GitHub [](https://github.com/)
+2. MeshMixer [](https://www.meshmixer.com/)
+4. Processing [](https://processing.org/)
+5. P5 [](http://staging.p5js.org/download/)
+
+### GitHub
+Course materials such as syllabus, readings, assignment instructions, etc. can be found on the class GitHub repository. Students will also be submitting their projects, assignments and reading responses to the same repository.
