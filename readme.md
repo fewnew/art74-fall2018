@@ -1,7 +1,7 @@
-# ART 074 - Introduction to Digital Media ART
+# ART 074 - Introduction to Digital Media Art
 ### Section X, Fall 2018.
 
-+ Niousha (Leily) Khatibi [niousha.khatibi@sjsu.edu]()
++ Niousha (Leily) Khatibi - contact: [niousha.khatibi@sjsu.edu]()
 + Tue/Thu 9:00 - 11:50am
 + [Office Hours Sign Up Sheet](), Art #335
 
