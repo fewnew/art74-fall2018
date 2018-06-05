@@ -3,7 +3,7 @@
 
 :beginner: △▽△▽△▽ :beginner:
 
-| [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | Projects | Mini Assignments |
+| [Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | Projects | Mini Assignments |
 | -------- | -------- | -------- | ---------------- |
 
 ## Course Description
