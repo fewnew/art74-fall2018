@@ -46,3 +46,35 @@ This course requires access to a computer which can support Adobe software. SJSU
 
 ### GitHub
 Course materials such as syllabus, readings, assignment instructions, etc. can be found on the class GitHub repository. Students will also be submitting their projects, assignments and reading responses to the same repository.
+
+## Course Requirements and projects
+* This course consists of smaller assignments which build up necessary skills for making the 6 main projects and writing the final paper. See descriptions below.
+* There will be assigned readings and videos posted on GitHub. Students are required to submit responses with the minimum of 2 paragraphs to these materials on the class repository.
+
+### 01 ~ Micro Cinema (raster)
+Make an animated gif. Harness your skills to create a more elaborate animation or a cinematographic style gif. Just use your imagination and create a complicated animation based on a narrative. Make sure to include many animation techniques such as tweening by position and/or opacity, filters, transformations, and your own manipulated layers.
+
+### 02 ~ cARds (vector)
+For this project, you will be creating a printed trigger image and an overlay to convey a larger, interactive, augmented reality experience. Your trigger image and overlay image should be in “conversation” with one another. In other words, the camera image together with the augmented one should create a new reading that emerges when both are seen together.
+
+### 03 ~ HypermediART (video and sound art)
+You are challenged to create a digital short (3-4 minutes) like those that you see on Saturday Night Live or YouTube. You will use advanced techniques in Adobe Premiere Pro to add special effects to your piece based on a theme or subject of your choosing. Take advantage of the great flexibility of this genre of film to creatively express yourself.
+
+**Guest artist: Jorge Vizcaino**
+
+### 04 ~ 3D MeshMash (remix)
+Using three objects/forms that are from both existing and found (downloaded from the internet) sources, mix together a virtual 3D sculpture using Meshmixer. Design the impossible! Your mashup may be an exciting re-interpretation of a classic form or even a chaotic mess made of organic and/or geometric designs. You are also required to visualize the purpose and "story" behind the objects that you choose to model.
+
+### 05 ~ eFolio (web)
+Building on the skills that you developed in the net.art assignment, further develop the provided portfolio template by customizing the formatting and styles in addition to uploading the previous artworks you have made in this class. The free domain you will get from [www.freenom.com]() should be forwarded to your portfolio web address hosted on Github.
+
+### 06 ~ ArtWare (software art)
+Students should explore interactive narratives, software art, simulations and emergent behaviors in code-based forms. Techniques and concepts must be presented through the open-source programming environment P5. The functional, interactive forms you present can be an imaginative structure, a self-portrait or any desired imagery.
+
+### 07 ~ Final Paper
+Write a 5-page PDF paper including:
+* One page as an artist statement.
+* Two pages for giving examples of three artists and their artworks that you feel represent Digital Media Art and have influenced your own work as an artist. Explain why you chose these artists and how you have incorporated their influence this semester.
+* Two pages for your research statement that addresses your technical, conceptual, theoretical and development processes. You are encouraged to link to videos, images and sounds to support your explanations.
+
+## Grading Information
