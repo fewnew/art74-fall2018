@@ -32,11 +32,11 @@ No textbook required for this course.
 Assigned readings will be made available on the class GitHub in PDF format. Reading is crucial to success in this course and developing an understanding of course content. Some reading material will be videos which students are required to submit their responses to those as well.
 
 ### Technology Requirements/Software
-This course requires access to a computer which can support Adobe software. SJSU students can download the current edition of Adobe Creative Suite for free. [](http://www.sjsu.edu/ecampus/teaching-tools/adobe/index.html) Mandatory Apps from the Adobe Creative Suite include Photoshop, Illustrator, and Premiere. If you do not have a computer or the software mentioned above, you have access to the CADRE computer labs and the University computers to complete your work. We will also be using these free/open-source programs:
-1. GitHub [](https://github.com/)
-2. MeshMixer [](https://www.meshmixer.com/)
-4. Processing [](https://processing.org/)
-5. P5 [](http://staging.p5js.org/download/)
+This course requires access to a computer which can support Adobe software. SJSU students can download the current edition of Adobe Creative Suite for free. [http://www.sjsu.edu/ecampus/teaching-tools/adobe/index.html]() Mandatory Apps from the Adobe Creative Suite include Photoshop, Illustrator, and Premiere. If you do not have a computer or the software mentioned above, you have access to the CADRE computer labs and the University computers to complete your work. We will also be using these free/open-source programs:
+1. GitHub [https://github.com/]()
+2. MeshMixer [https://www.meshmixer.com/]()
+4. Processing [https://processing.org/]()
+5. P5 [http://staging.p5js.org/download/]()
 
 ### GitHub
 Course materials such as syllabus, readings, assignment instructions, etc. can be found on the class GitHub repository. Students will also be submitting their projects, assignments and reading responses to the same repository.
