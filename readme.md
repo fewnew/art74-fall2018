@@ -5,7 +5,7 @@
 + Tue/Thu 9:00 - 11:50am
 + [Office Hours Sign Up Sheet](), Art #335
 
-| [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md) | Readings | Projects | Mini Assignments |
+| [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | Projects | Mini Assignments |
 | -------- | -------- | -------- | ---------------- |
 
 
