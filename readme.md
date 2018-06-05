@@ -6,6 +6,7 @@
 + [Office Hours Sign Up Sheet](), Art #335
 
 | Syllabus | Readings | Projects | Mini Assignments |
+| -------- | -------- | -------- | ---------------- |
 
 
 ![ART74 Image](https://i.imgur.com/avzaJMP.png)
