@@ -182,8 +182,7 @@ The SJSU Counseling and Psychological Services is located on the corner of 7th S
 ## Course Schedule
 Week | Date | Topics, Readings, Assignments, Deadlines
 --- | --- | ---
-1 | Tue, 08/21 | **Course Introduction / Overview of Syllabus**
-Introductions (Instructor-Students), GitHub registration.
+1 | Tue, 08/21 | **Course Introduction / Overview of Syllabus** // Introductions (Instructor-Students), GitHub registration.
 1 | Thu, 08/23 | **Lecture:** —
                  **Lab:** Tutorials on how to use GitHub (version control, clone, commit).
                  **Deliver:** Reading 01 // in class discussion on the reading.
