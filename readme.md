@@ -5,7 +5,7 @@
 + Tue/Thu 9:00 - 11:50am
 + [Office Hours Sign Up Sheet](), Art #335
 
-Syllabus | Readings | Projects | Mini Assignments
+| Syllabus | Readings | Projects | Mini Assignments |
 
 
 ![ART74 Image](https://i.imgur.com/avzaJMP.png)
