@@ -184,6 +184,4 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 --- | --- | ---
 1 | Tue, 08/21 | **Course Introduction / Overview of Syllabus** - Introductions (Instructor-Students), GitHub registration.
 1 | Thu, 08/23 | **Lecture:** — <br> **Lab:** Tutorials on how to use GitHub (version control, clone, commit). <br> **Deliver:** Reading 01 // in class discussion on the reading.
-<!-- 2 | Tue, 08/28 | **Lecture:** * Beauty in errors ↣ Glitch art
-                 * **Lab:** Intro to pixel based image with Photoshop ↣ Topics related to image formats, resolution, the interface and terminology in Photoshop.
-                 * **Deliver:** Reading 02 // in class discussion on the reading.                -->
+2 | Tue, 08/28 | **Lecture:** * Beauty in errors ↣ Glitch art <br> **Lab:** Intro to pixel based image with Photoshop ↣ Topics related to image formats, resolution, the interface and terminology in Photoshop. <br> **Deliver:** Reading 02 // in class discussion on the reading.
