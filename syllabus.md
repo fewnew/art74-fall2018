@@ -59,8 +59,7 @@ For this project, you will be creating a printed trigger image and an overlay to
 
 ### 03 ~ HypermediART (video and sound art)
 You are challenged to create a digital short (3-4 minutes) like those that you see on Saturday Night Live or YouTube. You will use advanced techniques in Adobe Premiere Pro to add special effects to your piece based on a theme or subject of your choosing. Take advantage of the great flexibility of this genre of film to creatively express yourself.
-
-**Guest artist: Jorge Vizcaino**
+*Guest artist: Jorge Vizcaino*
 
 ### 04 ~ 3D MeshMash (remix)
 Using three objects/forms that are from both existing and found (downloaded from the internet) sources, mix together a virtual 3D sculpture using Meshmixer. Design the impossible! Your mashup may be an exciting re-interpretation of a classic form or even a chaotic mess made of organic and/or geometric designs. You are also required to visualize the purpose and "story" behind the objects that you choose to model.
@@ -109,23 +108,23 @@ The grading of each project will be based on:
 * Technical aspects and functionality (30%)
 
 ### Grading Scale
-* **A-, A, A+ = Excellence (3.7–4.0)**
+* *A-, A, A+ = Excellence (3.7–4.0)*
 
 Student consistently delivers creative and high quality work and demonstrates the ability to explore a wide range of alternative options as well as the ability to make intelligent and informed decisions on the final solution. Student is able to refine final solutions to instructor feedback. Student shows the ability to communicate ideas clearly and completely, both visually and verbally. Well-crafted and informed arguments support any and all design decisions. All projects are complete and on time. Student demonstrates a strong, engaged effort in work and in class. Student maintains at all times a positive attitude and commitment towards the profession, classmates, the instructor and their own development. Student participates in all regularly scheduled classes. Overall, student meets and exceeds the requirements of the course.
 
-* **B-, B, B+ = Very good work (2.7–3.6)**
+* *B-, B, B+ = Very good work (2.7–3.6)*
 
 Student demonstrates an above average effort in all areas. Work is complete and demonstrates no craft or technical problem areas. Student shows the ability to communicate decent rationale for design decisions and demonstrates improvement in all areas of professional development as a designer. Student maintains a positive attitude and involvement in all coursework and class activities.
 
-* **C-, C, C+ = Adequate, average work (1.7–2.6)**
+* *C-, C, C+ = Adequate, average work (1.7–2.6)*
 
 Student produces the minimum work required at an average quality level and provides basic explanations for design decisions. Student demonstrates a basic understanding of the principles presented in class and may have some craft and technical problem areas. Student demonstrates average participation in all regularly scheduled classes.
 
-* **D-, D, D+ = Poor work and lack of effort (0.7–1.6)**
+* *D-, D, D+ = Poor work and lack of effort (0.7–1.6)*
 
 Student produces the minimum work required at below average quality and demonstrates little understanding of the principles.
 
-* **F = Failure to meet the course requirements (0.0–0.6)**
+* *F = Failure to meet the course requirements (0.0–0.6)*
 
 Student demonstrates a lack of understanding of the basic principles discussed in class and is unable to convey creative and craft and technical ability as required. Student has little or no involvement in class discussions, repeatedly misses deadlines or critiques, and demonstrates little commitment to learning and their own development. Student shows little participation and/or is consistently late for class.
 
@@ -181,3 +180,13 @@ The SJSU Counseling and Psychological Services is located on the corner of 7th S
 :beginner: △▽△▽△▽ :beginner:
 
 ## Course Schedule
+Week | Date | Topics, Readings, Assignments, Deadlines
+--- | --- | ---
+1 | Tue, 08/21 | **Course Introduction / Overview of Syllabus**
+Introductions (Instructor-Students), GitHub registration.
+1 | Thu, 08/23 | **Lecture:** —
+                 **Lab:** Tutorials on how to use GitHub (version control, clone, commit).
+                 **Deliver:** Reading 01 // in class discussion on the reading.
+2 | Tue, 08/28 | **Lecture:** Beauty in errors ↣ Glitch art
+                 **Lab:** Intro to pixel based image with Photoshop ↣ Topics related to image formats, resolution, the interface and terminology in Photoshop.
+                 **Deliver:** Reading 02 // in class discussion on the reading.               
