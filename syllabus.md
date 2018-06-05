@@ -3,8 +3,10 @@
 
 :beginner: △▽△▽△▽ :beginner:
 
-[Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | Projects | Mini Assignments
- -------- | -------- | -------- | ----------------
+| [Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | Projects | Mini Assignments
+
+-------- | -------- | -------- | ---------------- |
+
 
 ## Course Description
 This course will explore the fundamental concepts and methods of digital media art production. It provides an introduction to digital art, web presentation techniques, and digital based fabrication. We shall explore both conceptually and technically what it means to manipulate images and create objects digitally, we will explore pure digital spaces and experience social and physical overlap of media. This course is a visual art course and will approach media from a fine art and theoretical perspective. Students will produce artworks using currently available imaging, composition, web design, and other software. Projects will be presented in print and on the web. The class will focus on current methods, trends and conceptual frameworks for artistic production involving contemporary technology. The course emphasizes creative and critical thinking, problem solving and computer literacy.
