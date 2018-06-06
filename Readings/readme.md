@@ -8,7 +8,7 @@
 
 1. [Reading 01: New Media from Borges to HTML](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading1/Manovich%2C%20Lev%20-%20New%20Media%20from%20Borges%20to%20HTML(excerpt).pdf) by Lev Manovich // due 08/23
 2. [Reading 02: Hypermedia Essay - Thoughts On Glitch](http://nickbriz.com/thoughtsonglitchart/) by Nick Briz // due 08/28
-3. [Reading 03: Infographics - The Power of Visual Storytelling](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading3/Infographics_The_Power_of_Visual_Storytelling_----_(Chapter_03_The_Visual_Storytelling_Spectrum_An_Objective_Approach).pdf) by Jason Lankow, Ross Crooks, and Josh Ritchie // due 09/13
+3. [Reading 03: Chapter 3 of *Infographics - The Power of Visual Storytelling*](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading3/Infographics_The_Power_of_Visual_Storytelling_----_(Chapter_03_The_Visual_Storytelling_Spectrum_An_Objective_Approach).pdf) by Jason Lankow, Ross Crooks, and Josh Ritchie // due 09/13
 4. [Reading 04: Blah Blah Blah](link to reading)
 5. [Reading 05: Blah Blah Blah](link to reading)
 6. [Reading 06: Blah Blah Blah](link to reading)
