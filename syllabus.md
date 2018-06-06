@@ -110,23 +110,18 @@ The grading of each project will be based on:
 
 ### Grading Scale
 * *A-, A, A+ = Excellence (3.7–4.0)*
-
 Student consistently delivers creative and high quality work and demonstrates the ability to explore a wide range of alternative options as well as the ability to make intelligent and informed decisions on the final solution. Student is able to refine final solutions to instructor feedback. Student shows the ability to communicate ideas clearly and completely, both visually and verbally. Well-crafted and informed arguments support any and all design decisions. All projects are complete and on time. Student demonstrates a strong, engaged effort in work and in class. Student maintains at all times a positive attitude and commitment towards the profession, classmates, the instructor and their own development. Student participates in all regularly scheduled classes. Overall, student meets and exceeds the requirements of the course.
 
 * *B-, B, B+ = Very good work (2.7–3.6)*
-
 Student demonstrates an above average effort in all areas. Work is complete and demonstrates no craft or technical problem areas. Student shows the ability to communicate decent rationale for design decisions and demonstrates improvement in all areas of professional development as a designer. Student maintains a positive attitude and involvement in all coursework and class activities.
 
 * *C-, C, C+ = Adequate, average work (1.7–2.6)*
-
 Student produces the minimum work required at an average quality level and provides basic explanations for design decisions. Student demonstrates a basic understanding of the principles presented in class and may have some craft and technical problem areas. Student demonstrates average participation in all regularly scheduled classes.
 
 * *D-, D, D+ = Poor work and lack of effort (0.7–1.6)*
-
 Student produces the minimum work required at below average quality and demonstrates little understanding of the principles.
 
 * *F = Failure to meet the course requirements (0.0–0.6)*
-
 Student demonstrates a lack of understanding of the basic principles discussed in class and is unable to convey creative and craft and technical ability as required. Student has little or no involvement in class discussions, repeatedly misses deadlines or critiques, and demonstrates little commitment to learning and their own development. Student shows little participation and/or is consistently late for class.
 
 Important Notes about grading — All assignment are graded, therefore you should do your best on them or your course grade will be adversely affected. It is very important to complete all of them because:
