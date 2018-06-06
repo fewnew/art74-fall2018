@@ -10,7 +10,7 @@
 2. [Reading 02: Hypermedia Essay - Thoughts On Glitch](http://nickbriz.com/thoughtsonglitchart/) by Nick Briz // due 08/28
 3. [Reading 03: Chapter 3 of *Infographics - The Power of Visual Storytelling*](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading3/Infographics_The_Power_of_Visual_Storytelling_----_(Chapter_03_The_Visual_Storytelling_Spectrum_An_Objective_Approach).pdf) by Jason Lankow, Ross Crooks, and Josh Ritchie // due 09/13
 4. [Reading 04: Invisible Visualities](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading4/InvisibleVisualities.pdf) by Amanda Starling Gould // due 09/20
-5. [Reading 05: Blah Blah Blah](link to reading)
+5. [Reading 05: Busting the Tube; A Brief History of Video Art](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading5/Kate%20Horsfield%20-%20Busting%20the%20Tube%3B%20A%20Brief%20History%20of%20Video%20Art.pdf) by Kate Horsfield // due 10/02
 6. [Reading 06: Blah Blah Blah](link to reading)
 7. [Reading 07: Blah Blah Blah](link to reading)
 8. [Reading 08: Blah Blah Blah](link to reading)
