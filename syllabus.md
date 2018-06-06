@@ -3,7 +3,7 @@
 
 :beginner: △▽△▽△▽ :beginner:
 
-[Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | Projects | Mini Assignments
+[Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | [Projects](https://github.com/fewnew/art74-fall2018/tree/master/projects) | Small Assignments
 --- | --- | --- | --- | ---
 
 [Go straight to Course Schedule](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md#course-schedule)
@@ -183,3 +183,7 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 2 | Tue, 08/28 | **Lecture:** Beauty in errors ↣ Glitch art <br> **Lab:** Intro to pixel based image with Photoshop ↣ Topics related to image formats, resolution, the interface and terminology in Photoshop. <br> **Deliver:** Reading 02 // in class discussion on the reading.
 2 | Thu, 08/30 | **Lecture:** — <br> **Lab:** Advanced Tutorials in Photoshop ↣ Topics related to advanced editing and manipulation features of graphics and images. <br> **Deliver:** Assignment 01 (Glitch).
 3 | Tue, 09/04 | **Lecture:** <br> **Lab:** <br> **Deliver:**
+
+
+
+[Back to top](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md#syllabus)
