@@ -187,7 +187,7 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 4 | Tue, 09/11 | **Field trip:** Viewing SJMA Won Ju Lim’s multimedia installation.
 4 | Thu, 09/13 | **Lecture:** — <br> **Lab:** Intro to vector based image with Illustrator ↣ Topics on Illustrator workspace, vector graphic creation and editing controls. <br> **Deliver:** Reading 03 //  in class discussion on the reading.
 5 | Tue, 09/18 | **Lecture:** Guest artist: Victoria Scott <br> **Lab:** — <br> **Deliver:** Assignment 03 (Facet Art).
-5 | Thu, 09/20 |  **Lecture:** — <br> **Lab:** Advanced Tutorials in Illustrator ↣ Topics related to advanced editing and manipulation features of graphics and images. **Deliver:** Reading 04 //  in class discussion on the reading.
+5 | Thu, 09/20 |  **Lecture:** — <br> **Lab:** Advanced Tutorials in Illustrator ↣ Topics related to advanced editing and manipulation features of graphics and images. <br> **Deliver:** Reading 04 //  in class discussion on the reading.
 6 | Tue, 09/25 | **Lecture:** Techniques at work in Mixed and Augmented Reality. <br> **Lab:** Tutorials on how to use BlippAR. <br> **Deliver:**  —
 6 | Thu, 09/27 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 02. <br> **Deliver:** [Project 02 (cARds)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project2#project-02-cards).
 7 | Tue, 10/02 | **Lecture:** A time based storytelling media relying on moving pictures with audio. <br> **Lab:** Intro to video art with Premiere ↣ Topics related to navigate Premiere Pro, Timeline, Sequences and Keyframes. **Deliver:** Reading 05 //  in class discussion on the reading.
