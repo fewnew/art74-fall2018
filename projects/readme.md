@@ -12,4 +12,7 @@ This course consists of smaller assignments which build up necessary skills for 
 2. [Project 02: cARds](https://github.com/fewnew/art74-fall2018/tree/master/projects/project2#project-02-cards)
 3. [Project 03: HypermediART](https://github.com/fewnew/art74-fall2018/tree/master/projects/project3#project-03-hypermediart)
 4. [Project 04: 3D MeshMash](https://github.com/fewnew/art74-fall2018/tree/master/projects/project4#project-04-3d-meshmash)
+5. [Project 05: eFolio](https://github.com/fewnew/art74-fall2018/tree/master/projects/project5#project-05-efolio)
+6. [Project 06: ArtWare](https://github.com/fewnew/art74-fall2018/tree/master/projects/project6#project-06-artware)
+7. [Final paper](https://github.com/fewnew/art74-fall2018/tree/master/projects/project7-finalpaper#final-paper)
 
