@@ -6,7 +6,7 @@
 [Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md#syllabus) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | [Projects](https://github.com/fewnew/art74-fall2018/tree/master/projects) | Small Assignments
 --- | --- | --- | --- | ---
 
-1. [Reading 01: Blah Blah Blah](link to reading)
+1. [Reading 01: New Media from Borges to HTML](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading1/Manovich%2C%20Lev%20-%20New%20Media%20from%20Borges%20to%20HTML(excerpt).pdf) by Lev Manovich
 2. [Reading 02: Blah Blah Blah](link to reading)
 3. [Reading 03: Blah Blah Blah](link to reading)
 4. [Reading 04: Blah Blah Blah](link to reading)
