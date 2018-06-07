@@ -12,7 +12,7 @@
 4. [Reading 04: Invisible Visualities](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading4/InvisibleVisualities.pdf) by Amanda Starling Gould // due 09/20
 5. [Reading 05: Busting the Tube; A Brief History of Video Art](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading5/Kate%20Horsfield%20-%20Busting%20the%20Tube%3B%20A%20Brief%20History%20of%20Video%20Art.pdf) by Kate Horsfield // due 10/02
 6. [Reading 06: The 3D Addivist Manifesto](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading6/The_3D_Additivist_Manifesto.pdf) by Morehshin Allahyari and Daniel Rourke // due 10/16
-7. [Reading 07: Blah Blah Blah](link to reading)
+7. [Reading 07: Web Work, A History of Internet Art](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading7/Greene%2C%20Rachel%20-%20Web%20Work%2C%20A%20History%20of%20Internet%20Art.pdf) by Rachel Greene // due 10/30
 8. [Reading 08: Blah Blah Blah](link to reading)
 9. [Reading 09: Blah Blah Blah](link to reading)
 10. [Reading 10: Blah Blah Blah](link to reading)
