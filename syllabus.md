@@ -202,7 +202,7 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 11 | Thu, 11/01 | **Lecture:**  — <br> **Lab:** Intro to CSS and user interface design using color palettes, Google web fonts, Fontawesome iconography. <br> **Deliver:** Assignment 06 (Hyperlinked Narrative).
 12 | Tue, 11/06 | **Lecture:**  — <br> **Lab:** Intro to web hosting directly from a GitHub repository + GitHub Pages. <br> **Deliver:** Progress on Project 05.
 12 | Thu, 11/08 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 05. <br> **Deliver:** [Project 05 (eFolio)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project5#project-05-efolio).
-13 | Tue, 11/13 | **Lecture:** Writing code within the context of the visual arts. <br> **Lab:** Intro to Processing ↣ Topics on drawing a sketch with basic programming. <br> **Deliver:** [Reading 08]() //  in class discussion on the reading.
+13 | Tue, 11/13 | **Lecture:** Writing code within the context of the visual arts. <br> **Lab:** Intro to Processing ↣ Topics on drawing a sketch with basic programming. <br> **Deliver:** [Reading 08](https://hello.processing.org/) //  in class discussion on the reading.
 13 | Thu, 11/15 | **Lecture:** — <br> **Lab:** Advanced Tutorials in Processing ↣ Variables and response. <br> **Deliver:** Reading 09 //  in class discussion on the reading
 14 | Tue, 11/20 | **Lecture:** — <br> **Lab:** Advanced Tutorials in Processing (digging deeper into conditional statements) + Assigning groups. <br> **Deliver:** Assignment 07 (Basic Interactivity).
 14 | Thu, 11/22 | **Thanksgiving**
