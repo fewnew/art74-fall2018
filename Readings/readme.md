@@ -15,7 +15,7 @@
 7. [Reading 07: Web Work, A History of Internet Art](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading7/Greene%2C%20Rachel%20-%20Web%20Work%2C%20A%20History%20of%20Internet%20Art.pdf) by Rachel Greene // due 10/30
 8. [Reading 08: Read me, Run me, Execute me](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading8/Arns_Inke_Read_me_run_me_execute_me%20.pdf) by Inke Arns // due 11/13
 9. [Reading 09: Hello Processing](https://hello.processing.org/) by The Processing Foundation, tutorials: Daniel Shiffman // due 11/15
-10. [Reading 10: Blah Blah Blah](link to reading) by ___ // due 11/27
+10. [Reading 10: Processing Transition](https://github.com/processing/p5.js/wiki/Processing-transition) by Lauren McCarthy // due 11/27
 
 ## Reading Response Instructions
 There will be assigned readings and videos uploaded onto this folder. Students are required to submit responses with the minimum of 2 paragraphs to these materials in the *"responses"* folder.
