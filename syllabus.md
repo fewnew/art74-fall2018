@@ -207,8 +207,8 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 14 | Tue, 11/20 | **Lecture:** — <br> **Lab:** Advanced Tutorials in Processing (digging deeper into conditional statements) + Assigning groups. <br> **Deliver:** Assignment 07 (Basic Interactivity).
 14 | Thu, 11/22 | **Thanksgiving**
 15 | Tue, 11/27 | **Lecture:** Processing transition ↣ Getting started with P5.js <br> **Lab:** Intro to P5.js interface and basics. <br> **Deliver:** Reading 10 //  in class discussion on the reading.
-15 | Thu, 11/29 | **Lecture:**  — <br> **Lab:** Advanced Tutorials in P5.js ↣ Transitions and including media. <br> **Deliver:** Reading 10 //  in class discussion on the reading.
-16 | Tue, 12/04 | **Lecture:** — <br> **Lab:** Advanced Tutorials in P5.js  ↣ Motion and addon libraries. <br> **Deliver:** —
+15 | Thu, 11/29 | **Lecture:**  — <br> **Lab:** Advanced Tutorials in P5.js ↣ Transitions and including media. <br> **Deliver:** Assignment 08 (First P5.js Sketch).
+16 | Tue, 12/04 | **Lecture:** — <br> **Lab:** Advanced Tutorials in P5.js  ↣ Motion and addon libraries. <br> **Deliver:** Progress on Project 06.
 16 | Thu, 12/06 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 06. <br> **Deliver:** [Project 06 (ArtWare)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project6#project-06-artware).
 Finals | Tue, 12/11 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of completed website + Potluck! <br> **Deliver:** [Project 07 (Final Paper)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project7-finalpaper#final-paper).
 
