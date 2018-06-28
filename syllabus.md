@@ -51,6 +51,7 @@ Course materials such as syllabus, readings, assignment instructions, etc. can b
 ## Course Requirements and projects
 * This course consists of smaller assignments which build up necessary skills for making the 6 main projects and writing the final paper. See descriptions below.
 * There will be assigned readings and videos posted on GitHub. Students are required to submit responses with the minimum of 2 paragraphs to these materials on the class repository.
+* Student works throughout the semester will be exhibited in the university galleries and its necessary for all student to participate. However they can personally select which of their artworks they would like to show.
 
 ### 01 ~ Micro Cinema (raster)
 Make an animated gif. Harness your skills to create a more elaborate animation or a cinematographic style gif. Just use your imagination and create a complicated animation based on a narrative. Make sure to include many animation techniques such as tweening by position and/or opacity, filters, transformations, and your own manipulated layers.
@@ -96,8 +97,8 @@ Every project should address the following questions:
 ### Grading Breakdown
 Six Main Projects 60% (10% each)
 Final Paper 10%
-Small Assignments 15%
-Reading Responses and Class Participation 15%
+Small Assignments 10%
+Reading Responses and Class Participation 20%
 TOTAL 100%
 * SJSU Visiting Artist/Gallery Critique​: 1% per visit with written response, up to 2% maximum extra credit per student.
 
