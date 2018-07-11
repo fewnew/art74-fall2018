@@ -9,7 +9,7 @@
 --- | --- | --- | --- | ---
 
 
-![ART74 Image](https://i.imgur.com/ozHfRnK.gif)
+![ART74 Image](https://media.giphy.com/media/3lxhrQg4sFeL5HNaHT/giphy.gif)
 
 ## :wavy_dash: About :wavy_dash:
 The goal of this course is to establish a foundational digital literacy. Keep in mind that this class is an introduction on how to use hypermedia to make contemporary forms of art; it is not a software training course. The intention of this class is to use our modern age technology as envi
