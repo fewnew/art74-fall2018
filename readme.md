@@ -9,7 +9,7 @@
 --- | --- | --- | --- | ---
 
 
-![alt text](https://www.gettyimages.ie/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg)
+![alt text](https://preview.ibb.co/dCFJ2T/Flipbook0405_copy.jpg)
 
 ## :wavy_dash: About :wavy_dash:
 The goal of this course is to establish a foundational digital literacy. Keep in mind that this class is an introduction on how to use hypermedia to make contemporary forms of art; it is not a software training course. The intention of this class is to use our modern age technology as envi
