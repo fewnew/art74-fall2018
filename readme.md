@@ -8,7 +8,7 @@
 [Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md#syllabus) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | [Projects](https://github.com/fewnew/art74-fall2018/tree/master/projects) | Small Assignments
 --- | --- | --- | --- | ---
 
-![[Art74 Image](https://i.imgur.com/rMe7aC9.jpg)
+![[Art74](https://i.imgur.com/rMe7aC9.jpg)
 
 ## :wavy_dash: About :wavy_dash:
 The goal of this course is to establish a foundational digital literacy. Keep in mind that this class is an introduction on how to use hypermedia to make contemporary forms of art; it is not a software training course. The intention of this class is to use our modern age technology as envi
