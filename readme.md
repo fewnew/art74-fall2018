@@ -9,7 +9,7 @@
 --- | --- | --- | --- | ---
 
 
-![Image](https://s1.gifyu.com/images/flipbook.gif)
+![Image](https://im4.ezgif.com/tmp/ezgif-4-dc1fc0e2d9.gif)
 
 ## :wavy_dash: About :wavy_dash:
 The goal of this course is to establish a foundational digital literacy. Keep in mind that this class is an introduction on how to use hypermedia to make contemporary forms of art; it is not a software training course. The intention of this class is to use our modern age technology as envi
