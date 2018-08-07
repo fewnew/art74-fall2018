@@ -4,6 +4,7 @@
 + Niousha (Leily) Khatibi - contact: <niousha.khatibi@sjsu.edu>
 + Tue/Thu 9:00 - 11:50am
 + [Sign up here for office hours](https://calendly.com/fewnew/officehour-signup), Location: Art #335
++ Follow along on our journey here: https://www.instagram.com/cadre_social/
 
 [Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md#syllabus) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | [Projects](https://github.com/fewnew/art74-fall2018/tree/master/projects) | Small Assignments
 --- | --- | --- | --- | ---
