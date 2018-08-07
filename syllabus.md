@@ -61,7 +61,6 @@ For this project, you will be creating a printed trigger image and an overlay to
 
 ### 03 ~ HypermediART (video and sound art)
 Create a short (60 seconds) video composed of four 15-second clips to tell a short story, illustrate a scene, or communicate a mood. Bring your imagination out to play using media assets such as the original sounds, music, narrative voice, text and graphics. Think critically about horizontal/vertical format when you are recording and how you want the final output consumed by your viewers. The rules are simple, but the possibilities are endless!
-*Guest artist: Jorge Vizcaino*
 
 ### 04 ~ 3D MeshMash (remix)
 Using three objects/forms that are from both existing and found (downloaded from the internet) sources, mix together a virtual 3D sculpture using Meshmixer. Design the impossible! Your mashup may be an exciting re-interpretation of a classic form or even a chaotic mess made of organic and/or geometric designs. You are also required to visualize the purpose and "story" behind the objects that you choose to model.
