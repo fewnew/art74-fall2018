@@ -60,7 +60,7 @@ Make an animated gif. Harness your skills to create a more elaborate animation o
 For this project, you will be creating a printed trigger image and an overlay to convey a larger, interactive, augmented reality experience. Your trigger image and overlay image should be in “conversation” with one another. In other words, the camera image together with the augmented one should create a new reading that emerges when both are seen together.
 
 ### 03 ~ HypermediART (video and sound art)
-You are challenged to create a digital short (3-4 minutes) like those that you see on Saturday Night Live or YouTube. You will use advanced techniques in Adobe Premiere Pro to add special effects to your piece based on a theme or subject of your choosing. Take advantage of the great flexibility of this genre of film to creatively express yourself.
+Create a short (60 seconds) video composed of four 15-second clips to tell a short story, illustrate a scene, or communicate a mood. Bring your imagination out to play using media assets such as the original sounds, music, narrative voice, text and graphics. Think critically about horizontal/vertical format when you are recording and how you want the final output consumed by your viewers. The rules are simple, but the possibilities are endless!
 *Guest artist: Jorge Vizcaino*
 
 ### 04 ~ 3D MeshMash (remix)
