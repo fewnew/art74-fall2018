@@ -6,8 +6,8 @@
 + [Sign up here for office hours](https://calendly.com/fewnew/officehour-signup), Location: Art #335
 + Follow along on our journey here: https://www.instagram.com/cadre_social/
 
-[Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md#syllabus) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | [Projects](https://github.com/fewnew/art74-fall2018/tree/master/projects) | Small Assignments
---- | --- | --- | --- | ---
+[Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md#syllabus) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | [Projects](https://github.com/fewnew/art74-fall2018/tree/master/projects) | [Small Assignments]() | [Resources]() 
+--- | --- | --- | --- | --- | ---
 
 
 ![alt text](https://preview.ibb.co/dCFJ2T/Flipbook0405_copy.jpg)
