@@ -203,7 +203,7 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 12 | Tue, 11/06 | **Lecture:**  — <br> **Lab:** Intro to web hosting directly from a GitHub repository + GitHub Pages. <br> **Deliver:** Progress on Project 05.
 12 | Thu, 11/08 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 05. <br> **Deliver:** [Project 05 (eFolio)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project5#project-05-efolio).
 13 | Tue, 11/13 | **Lecture:** Writing code within the context of the visual arts. <br> **Lab:** Intro to Processing ↣ Topics on drawing a sketch with basic programming. <br> **Deliver:** [Reading 08](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading08/Arns_Inke_Read_me_run_me_execute_me%20.pdf) //  in class discussion on the reading.
-13 | Thu, 11/15 | ** ATC Presentations ** <br> **Deliver:** [Reading 09](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading09/hello-processing.md)
+13 | Thu, 11/15 | **ATC Presentations** <br> **Deliver:** [Reading 09](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading09/hello-processing.md)
 14 | Tue, 11/20 | **Lecture:** — <br> **Lab:** Advanced Tutorials in Processing (digging deeper into conditional statements) + Assigning groups. <br> **Deliver:** Assignment 06 (Basic Interactivity) + in class discussion on reading 09.
 14 | Thu, 11/22 | **Thanksgiving**
 15 | Tue, 11/27 | **Lecture:** Processing transition ↣ Getting started with P5.js <br> **Lab:** Intro to P5.js interface and basics. <br> **Deliver:** [Reading 10](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading10/processing-transition.md) //  in class discussion on the reading.
