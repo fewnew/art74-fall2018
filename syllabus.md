@@ -53,25 +53,22 @@ Course materials such as syllabus, readings, assignment instructions, etc. can b
 * There will be assigned readings and videos posted on GitHub. Students are required to submit responses with the minimum of 2 paragraphs to these materials on the class repository.
 * Student works throughout the semester will be exhibited in the university galleries and its necessary for all student to participate. However they can personally select which of their artworks they would like to show.
 
-### 01 ~ Micro Cinema (raster)
-Make an animated gif. Harness your skills to create a more elaborate animation or a cinematographic style gif. Just use your imagination and create a complicated animation based on a narrative. Make sure to include many animation techniques such as tweening by position and/or opacity, filters, transformations, and your own manipulated layers.
+### 01 ~ GifcARd (raster + vector + motion graphics)
+Create a printed trigger image and an overlay gif image to convey a larger, interactive, augmented reality experience. Your trigger image and overlay gif should be in “conversation” with one another. In other words, the camera image together with the augmented overlay should create a new reading that emerges when both are seen together. For the animated gif, harness your skills to create a more elaborate animation or a cinematographic style gif. Just use your imagination and create a complicated animation based on a narrative. Make sure to include many animation techniques such as tweening by position and/or opacity, filters, transformations, and your own manipulated layers. 
 
-### 02 ~ cARds (vector)
-For this project, you will be creating a printed trigger image and an overlay to convey a larger, interactive, augmented reality experience. Your trigger image and overlay image should be in “conversation” with one another. In other words, the camera image together with the augmented one should create a new reading that emerges when both are seen together.
-
-### 03 ~ HypermediART (video and sound art)
+### 02 ~ HypermediART (video and sound art)
 Create a short (60 seconds) video composed of four 15-second clips to tell a short story, illustrate a scene, or communicate a mood. Bring your imagination out to play using media assets such as the original sounds, music, narrative voice, text and graphics. Think critically about horizontal/vertical format when you are recording and how you want the final output consumed by your viewers. The rules are simple, but the possibilities are endless!
 
-### 04 ~ 3D MeshMash (remix)
+### 03 ~ 3D MeshMash (remix)
 Using three objects/forms that are from both existing and found (downloaded from the internet) sources, mix together a virtual 3D sculpture using Meshmixer. Design the impossible! Your mashup may be an exciting re-interpretation of a classic form or even a chaotic mess made of organic and/or geometric designs. You are also required to visualize the purpose and "story" behind the objects that you choose to model.
 
-### 05 ~ eFolio (web)
+### 04 ~ eFolio (web)
 Building on the skills that you developed in the net.art assignment, further develop the provided portfolio template by customizing the formatting and styles in addition to uploading the previous artworks you have made in this class. The free domain you will get from [www.freenom.com]() should be forwarded to your portfolio web address hosted on Github.
 
-### 06 ~ ArtWare (software art)
+### 05 ~ ArtWare (software art)
 Students should explore interactive narratives, software art, simulations and emergent behaviors in code-based forms. Techniques and concepts must be presented through the open-source programming environment P5. The functional, interactive forms you present can be an imaginative structure, a self-portrait or any desired imagery.
 
-### 07 ~ Final Paper
+### 06 ~ Final Project: Gallery Exhibition + Final Paper 
 Write a 5-page PDF paper including:
 * One page as an artist statement.
 * Two pages for giving examples of three artists and their artworks that you feel represent Digital Media Art and have influenced your own work as an artist. Explain why you chose these artists and how you have incorporated their influence this semester.
@@ -94,8 +91,9 @@ Every project should address the following questions:
 4. What/who are your influences for this particular piece?
 
 ### Grading Breakdown
-Six Main Projects 60% (10% each)
-Final Paper 10%
+Six Main Projects 60%: <br>
+Project 01 → 15%, Project 02, 03, 04 → 10% each <br>
+Final project includes Final Paper 5% and gallery exhibition 10% <br>
 Small Assignments 10%
 Reading Responses and Class Participation 20%
 TOTAL 100%
