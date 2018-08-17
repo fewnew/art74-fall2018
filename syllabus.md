@@ -93,9 +93,9 @@ Every project should address the following questions:
 ### Grading Breakdown
 Six Main Projects 60%: <br>
 Project 01 → 15%, Project 02, 03, 04 → 10% each <br>
-Final project includes Final Paper 5% and gallery exhibition 10% <br>
-Small Assignments 10%
-Reading Responses and Class Participation 20%
+Final project includes Final Paper 5% and gallery exhibition 15% <br>
+Small Assignments 15% <br>
+Reading Responses and Class Participation 20% <br>
 TOTAL 100%
 * SJSU Visiting Artist/Gallery Critique​: 1% per visit with written response, up to 2% maximum extra credit per student.
 
