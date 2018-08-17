@@ -53,7 +53,7 @@ Course materials such as syllabus, readings, assignment instructions, etc. can b
 * There will be assigned readings and videos posted on GitHub. Students are required to submit responses with the minimum of 2 paragraphs to these materials on the class repository.
 * Student works throughout the semester will be exhibited in the university galleries and its necessary for all student to participate. However they can personally select which of their artworks they would like to show.
 
-### 01 ~ GifcARd (raster + vector + motion graphics)
+### 01 ~ GifcARd (raster + vector)
 Create a printed trigger image and an overlay gif image to convey a larger, interactive, augmented reality experience. Your trigger image and overlay gif should be in “conversation” with one another. In other words, the camera image together with the augmented overlay should create a new reading that emerges when both are seen together. For the animated gif, harness your skills to create a more elaborate animation or a cinematographic style gif. Just use your imagination and create a complicated animation based on a narrative. Make sure to include many animation techniques such as tweening by position and/or opacity, filters, transformations, and your own manipulated layers. 
 
 ### 02 ~ HypermediART (video and sound art)
@@ -69,7 +69,9 @@ Building on the skills that you developed in the net.art assignment, further dev
 Students should explore interactive narratives, software art, simulations and emergent behaviors in code-based forms. Techniques and concepts must be presented through the open-source programming environment P5. The functional, interactive forms you present can be an imaginative structure, a self-portrait or any desired imagery.
 
 ### 06 ~ Final Project: Gallery Exhibition + Final Paper 
-Write a 5-page PDF paper including:
+Last week of class will be dedicated to preparing materials for the class group exhibition and gallery installation. All students are required to participate in exhibiting the artworks they made throughout the semester. <br>
+<br>
+For the final paper, write a 5-page PDF document including:
 * One page as an artist statement.
 * Two pages for giving examples of three artists and their artworks that you feel represent Digital Media Art and have influenced your own work as an artist. Explain why you chose these artists and how you have incorporated their influence this semester.
 * Two pages for your research statement that addresses your technical, conceptual, theoretical and development processes. You are encouraged to link to videos, images and sounds to support your explanations.
@@ -81,7 +83,7 @@ n order to be graded, documentation and description of your work must be submitt
 1. Title of the work
 2. Medium
 3. Dimensions/duration
-4. Attribution
+4. Attribution (burrow and tell)
 
 ### Description
 Every project should address the following questions:
@@ -155,7 +157,7 @@ Computer labs and other resources for student use are available in:
 A wide variety of audio-visual equipment is available for student checkout from [Collaboration & Academic Technology Services](http://www.sjsu.edu/at/) located in IRC Building. These items include DV and HD digital camcorders; digital still cameras; video, slide and overhead projectors; DVD, CD, and audiotape players; sound systems, wireless microphones, projection screens and monitors.
 
 ### Library Liaison
-Aliza Elkin — email: aliza.elkin@sjsu.edu, phone: (408) 808-2043
+Peggy Cabrera — email: peggy.cabrera@sjsu.edu, phone: (408)808-2034
 Dr. Martin Luther King, Jr. Library
 
 ## University Policies
