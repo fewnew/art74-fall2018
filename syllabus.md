@@ -205,7 +205,7 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 13 | Tue, 11/13 | **Lecture:** Writing code within the context of the visual arts. <br> **Lab:** Intro to Processing ↣ Topics on drawing a sketch with basic programming. <br> **Deliver:** [Reading 08](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading08/Arns_Inke_Read_me_run_me_execute_me%20.pdf) //  in class discussion on the reading.
 13 | Thu, 11/15 | **ATC Presentations** <br> **Deliver:** [Reading 09](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading09/hello-processing.md)
 14 | Tue, 11/20 | **Lecture:** — <br> **Lab:** Advanced Tutorials in Processing (digging deeper into conditional statements) + Assigning groups. <br> **Deliver:** Assignment 06 (Basic Interactivity) + in class discussion on reading 09.
-14 | Thu, 11/22 | **Thanksgiving**
+14 | Thu, 11/22 | **Thanksgiving** :poultry_leg:	
 15 | Tue, 11/27 | **Lecture:** Processing transition ↣ Getting started with P5.js <br> **Lab:** Intro to P5.js interface and basics. <br> **Deliver:** [Reading 10](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading10/processing-transition.md) //  in class discussion on the reading.
 15 | Thu, 11/29 | **Lecture:**  — <br> **Lab:** Advanced Tutorials in P5.js ↣ Transitions and including media. <br> **Deliver:** Assignment 07 (First P5.js Sketch).
 16 | Tue, 12/04 | **Lecture:** — <br> **Lab:** Advanced Tutorials in P5.js  ↣ Motion and addon libraries. <br> **Deliver:** Progress on Project 06.
