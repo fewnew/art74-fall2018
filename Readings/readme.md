@@ -25,5 +25,5 @@ The submitted markdown file name must be renamed as student's first name, unders
 ## Markdown Syntax
 
 For a markdown cheat sheet view the following links:
-* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]()
-* [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf]()
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
