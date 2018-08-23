@@ -3,4 +3,4 @@ Light propagation is a cool way to make something look weird and wonky. In one o
 
 
 
-![gif image] https://media.giphy.com/media/xT8qBgf4STo1TZBOda/giphy.gif
+![gif image](https://media.giphy.com/media/xT8qBgf4STo1TZBOda/giphy.gif)
