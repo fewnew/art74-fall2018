@@ -6,7 +6,8 @@ Color itself can be described by its three main attributes of hue (which refers 
 
 Markdown Practice:
 #Mine turtle
-![mine turtle] (https://vignette.wikia.nocookie.net/twitterponies/images/2/27/Mine_Turtle.png/revision/latest?cb=20121026141104)
-![mistake] (https://i.ytimg.com/vi/nk7QqknyusQ/maxresdefault.jpg)
-![explosion] (https://i.ytimg.com/vi/zhBxfNm3rJE/maxresdefault.jpg)
+![mine turtle](https://vignette.wikia.nocookie.net/twitterponies/images/2/27/Mine_Turtle.png/revision/latest?cb=20121026141104)
+![mistake](https://i.ytimg.com/vi/nk7QqknyusQ/maxresdefault.jpg)
+![explosion](https://i.ytimg.com/vi/zhBxfNm3rJE/maxresdefault.jpg)
+
 ####poor guy
