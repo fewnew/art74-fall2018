@@ -11,4 +11,4 @@ This is a space filler because I was not here for the first class so I was not a
 #### Oh this works! 
 ## WOW
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![gif image](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
