@@ -11,4 +11,4 @@ This is a space filler because I was not here for the first class so I was not a
 #### Oh this works! 
 ## WOW
 
-![gif image] (https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
+[gif image] (https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
