@@ -1,3 +1,6 @@
 Reflection on reading one text.Wavelengths can be slower than other wavelengths depending on if they're ultraviolet or infrared. Light is a reflection from obstacles from ones which we can not see. Light is either absorbed or reflected. A specular reflection is where all the rays are dispersed in the same direction such as a mirror. A diffused reflection is where all the light rays are dispersed in different directions like when light hits the ocean and we see the light specks in different parts of the waves.
 
 Color temperature is also used in kelvins(K). Fluorescents also help to neutralize warm colors as well and keep it at a stable "white light". Monochromatic radiation is also characterized by radiation in a singular frequency. There are also two types of color mixing. Additive and substractive which is the rgwy and cybm. The opposite colors on the color wheel such as red and green neutralize to a brown or grey color. Light and hue are also judged by intensity. Different colors under different colored light whether it be warm or cool are different hues such as yellow under purple light will appear more brown and tan instead of yellow.
+
+######## _she licc_
+![cat](https://giphy.com/gifs/m5of6ouIA4TFm/html5)
