@@ -3,4 +3,4 @@ Light is invisible but can be seen by reflection.  We humans can only see visibl
 I think the study of light is more about learning science than learning how to do digital art.  It is good to learn something about a particular topic.  Although I have a curious personality, I personally prefer to do the hands-on digital media.  I could see how learning something like this would help students master the things in digital media.  I learned something about the light in eighth grade, 9th grade, and BIOL 10 from last semester.  I could see by learning the science of light leads to a connection of RGB and color scales in computer software.  Reading this page about light took me a few hours and I would do as much as I can.  The readings remind me of applying knowledge to art.
 
 
-![Light Society](https://s3.amazonaws.com/storage.filemobile.com/storage/24257796/1085.png)
+![Light Society](https://s3.amazonaws.com/storage.filemobile.com/storage/24257796/1085)
