@@ -1,5 +1,7 @@
 :metal: :metal:
 
+![Soccer Player](https://media.giphy.com/media/31ZkSmkXwvsKcfeA9O/giphy.gif)
+
 ### Reading One
 
 Color is a very important thing throughout many mediums including my major, graphic design. The different theories are crucial to understand color, and how it should be used. The color theory is the way we perceive different colors, and how our eyes are able to see the different colors. Using the color wheel and color models to understand the type of work you are doing is extremely important. If you want your work to come across warm and inviting but you choose something such as dark blue, that will likely give off the wrong feeling for your work.
@@ -9,4 +11,4 @@ Black and white is just as important as colors when it comes to your work. Accor
 ![Color Theory](https://www.canva.com/learn/wp-content/uploads/2015/07/color-theory-1-tb-752x0.png)
 
 
-![Soccer Player](https://media.giphy.com/media/31ZkSmkXwvsKcfeA9O/giphy.gif)
+
