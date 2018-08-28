@@ -1,4 +1,5 @@
-###Glitch Art 
+:metal: :metal:
+### Glitch Art 
 
 Listening to Nick Brees talk about his work was extremely interesting because you are able to understand not only what Glitch Art is, but you are able to listen to how he found his process and the obstacles he overcame in order to become successful. Art is a difficult to understand and define because there are so many different forms of it, Brees demonstrates this with his example of his Glitch Art. I personally had never heard of or seen Glitch Art but am not very interested in the subject and will definitely be looking into it more. 
 
