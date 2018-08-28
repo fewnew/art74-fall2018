@@ -20,3 +20,12 @@ of these things. I sure learned a lot. Though I do have some questions. Some of
    making a picture look better and nicer. Something else that I learned was
     about primary colors, secondary colors and tertiary colors. Reading this
     article was great and really good, I learned a lot. 
+
+
+##### This is the image:
+
+![alt text](https://www.happybirthdaycake2015.com/wp-content/uploads/2017/06/tumblr_inline_opio4eX2ZT1ryh89t_500.gif "Spongebob")
+
+#### GIF:
+
+![alt text](https://media.giphy.com/media/y5yzypjVc9u3S/giphy.gif "The office")
