@@ -1,1 +1,1 @@
-Upload the file of your glitched image in this folder.
+Upload folder with your name incuding glitched images in that folder.
