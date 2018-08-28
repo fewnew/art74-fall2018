@@ -1,0 +1,5 @@
+After watching this video what I thought was glitch art. I saw it more as a kind of “aesthetic” and more simplistic types of distortion. Nothing like the crazy bleeding pixels and sprawling repetition of some images that were shown. I also thought that glitch art was more concrete, but it really does not have any rules, as those who do make it seek out to break the rules of use for a program to begin with. My definition of “glitch” has also changed, as its not something that is an error, but something that was expressed in an unexpected way.
+
+I originally thought glitch art was done through Photoshop or some other photo editing means but now I know it’s done through program misuse. It’s also a much simpler process than I than I thought it was, as the simplest way of making glitch art is to take an image and manipulate it in a text editor.
+
+This interactive style of reading was also very interesting and quite fun to learn from and interact with. It showed me what else can be done with hypermedia and an interesting format for showing a presentation.
