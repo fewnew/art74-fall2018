@@ -5,8 +5,9 @@
 + Tue/Thu 9:00 - 11:50am
 + [Sign up here for office hours](https://calendly.com/fewnew/officehour-signup), Location: Art #335
 + Follow along on our journey here: https://www.instagram.com/fewnew.academy/
++ [Link to class Google Drive](https://drive.google.com/drive/u/1/folders/1_7Iqxdxp8lJclV80gxv_3a55Ud1THcp7).
 
-[Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md#syllabus) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | [Projects](https://github.com/fewnew/art74-fall2018/tree/master/projects) | [Small Assignments]() | [Resources]() 
+[Home](https://github.com/fewnew/art74-fall2018) | [Syllabus](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md#syllabus) | [Readings](https://github.com/fewnew/art74-fall2018/tree/master/Readings) | [Projects](https://github.com/fewnew/art74-fall2018/tree/master/projects) | [Small Assignments](https://github.com/fewnew/art74-fall2018/tree/master/small-assignments) | Resources 
 --- | --- | --- | --- | --- | ---
 
 
