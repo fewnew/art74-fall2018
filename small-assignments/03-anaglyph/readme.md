@@ -1,1 +1,6 @@
-Upload the file of your anaglyph image in this folder.
+# Anaglyph
+
+### Upload the jpeg file of your anaglyph in this folder.
+
+Link to slides: 
+* https://docs.google.com/presentation/d/1qI4DB6jaASXyf8Nb3nnzuDpCufzKhHp93BkvLyR56qE/edit?usp=sharing
