@@ -11,7 +11,7 @@ Links to video tutorials for
 * https://www.youtube.com/watch?v=XGSxInilo-4
 
 ## 3D line drawing
-* https://www.youtube.com/watch?v=_8jS501yhVw
+* https://www.youtube.com/watch?v=_8jS501yhVw <br>
 (Fur effect) https://www.youtube.com/watch?v=xMjI6xc7jdM
 
 ## Image trace
