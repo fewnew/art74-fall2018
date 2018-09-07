@@ -17,7 +17,7 @@ You can download from any of the websites linked below. Make sure to copy graphi
 How to:
 * (remove background) https://www.youtube.com/watch?v=B6H5t8yibIM
 
-## 4. Normals Map
+## 4. Normal Map
 How to:
 * https://www.youtube.com/watch?v=0EHljiUMRA4
 
