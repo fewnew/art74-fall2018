@@ -1,3 +1,3 @@
 # PhotoMosh
 
-### Upload the file of your photo mosh in this folder.
+### Upload the .gif file of your photo mosh in this folder.
