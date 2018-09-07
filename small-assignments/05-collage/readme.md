@@ -15,7 +15,7 @@ You can download any Creative Commons licensed graphic from the websites linked 
 * https://www.vectorstock.com/free-vectors
 * https://www.freevector.com/
 
-## 3. Multiple duplications of a photo
+## 3. Multiple duplications of a layer
 How to:
 * (remove background) https://www.youtube.com/watch?v=B6H5t8yibIM
 
