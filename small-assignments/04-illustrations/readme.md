@@ -4,7 +4,7 @@
 
 Your file must include the flower made with distortion, 3D line drawing and recolored photo trace all created in Adobe Illustrator.
 
-Links to video tutorials for 
+Links to video tutorials: 
 
 ## Flower distortion: 
 * https://www.youtube.com/watch?v=MFZaJAC61SE
