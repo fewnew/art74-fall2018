@@ -1,1 +1,23 @@
 ### Upload a jpg or png file of your digital collage in this folder.
+
+Using Adobe Photoshop and Illustrator together create unique visuals. When pasting vectors from Illustrator to Photoshop Your file must include the following:
+
+## 1. mesh gradient
+How to:
+* https://www.youtube.com/watch?v=TkJzImzb3gM
+
+## 2. Burrowed Creative Commons licensed vector graphic
+You can download from any of the websites linked below. Make sure to copy graphics from the .ai extension file and paste to photoshop.
+* https://www.freepik.com/free-vectors/graphics
+* https://www.vecteezy.com/
+* https://www.vectorstock.com/free-vectors
+* https://www.freevector.com/
+
+## 3. Multiple duplications of backgroundless image
+How to:
+* (remove background) https://www.youtube.com/watch?v=B6H5t8yibIM
+
+## 4. Normals Map
+How to:
+* https://www.youtube.com/watch?v=0EHljiUMRA4
+
