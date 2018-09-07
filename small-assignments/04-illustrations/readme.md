@@ -4,7 +4,7 @@ Your file must include the flower made with distortion, 3D line drawing and reco
 
 Links to video tutorials for 
 
-## flower distortion: 
+## Flower distortion: 
 * https://www.youtube.com/watch?v=MFZaJAC61SE
 * https://www.youtube.com/watch?v=6UtogkOozbw
 * https://www.youtube.com/watch?v=VtgCW_8NfTs
