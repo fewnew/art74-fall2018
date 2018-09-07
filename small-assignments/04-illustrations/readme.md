@@ -1,10 +1,8 @@
-# Illustration
-
 ### Upload a jpg or png file of your illustrations in this folder.
 
-Your file must include the flower made with distortion, 3D line drawing and recolored photo trace all created in Adobe Illustrator.
+Your file must include the flower made with distortion, 3D line drawing and recolored photo trace; all created in Adobe Illustrator.
 
-Links to video tutorials: 
+Links to video tutorials for 
 
 ## Flower distortion: 
 * https://www.youtube.com/watch?v=MFZaJAC61SE
