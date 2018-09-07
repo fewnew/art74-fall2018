@@ -27,3 +27,8 @@ How to:
 How to:
 * https://www.youtube.com/watch?v=0ZdIbaWNWpU
 
+## 6. Text // typography
+How to:
+* https://www.youtube.com/watch?v=srtvkwRzTSQ
+* https://www.youtube.com/watch?v=z8ZbGTL1dYo
+
