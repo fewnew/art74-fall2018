@@ -1,13 +1,13 @@
 ### Upload a jpg or png file of your digital collage in this folder.
 
-Using Adobe Photoshop and Illustrator together create unique visuals. When pasting vectors from Illustrator to Photoshop, paste as pixels Your document must be 8.5x8.5 inches and include the following:
+Using Adobe Photoshop and Illustrator together create unique visuals. When pasting vectors from Illustrator to Photoshop, *paste as pixels*. Your document must be 8.5x8.5 inches and include the following:
 
-## 1. mesh gradient
+## 1. Mesh gradient
 How to:
 * https://www.youtube.com/watch?v=TkJzImzb3gM
 
-## 2. Burrowed Creative Commons licensed vector graphic
-You can download from any of the websites linked below. Make sure to copy graphics from the .ai extension file and paste to photoshop.
+## 2. Burrowed vector graphic
+You can download any Creative Commons licensed graphic from the websites linked below. Make sure to copy graphics from the .ai extension file and paste to photoshop.
 * https://www.freepik.com/free-vectors/graphics
 * https://www.vecteezy.com/
 * https://www.vectorstock.com/free-vectors
