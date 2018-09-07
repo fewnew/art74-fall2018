@@ -19,7 +19,7 @@ You can download any Creative Commons licensed graphic from the websites linked 
 How to:
 * (remove background) https://www.youtube.com/watch?v=B6H5t8yibIM
 
-## 4. Normal Map
+## 4. Normal map
 How to:
 * https://www.youtube.com/watch?v=0EHljiUMRA4
 
