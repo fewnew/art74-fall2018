@@ -1,6 +1,6 @@
 ### Upload a jpg or png file of your digital collage in this folder.
 
-Using Adobe Photoshop and Illustrator together create unique visuals. When pasting vectors from Illustrator to Photoshop Your file must include the following:
+Using Adobe Photoshop and Illustrator together create unique visuals. When pasting vectors from Illustrator to Photoshop, paste as pixels Your document must be 8.5x8.5 inches and include the following:
 
 ## 1. mesh gradient
 How to:
