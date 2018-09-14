@@ -1,5 +1,5 @@
 # Final Paper
-### :seven: 
+### :six: 
 
 Write a 5-page PDF paper including: 
 * One page as an artist statement. 
