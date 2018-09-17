@@ -1,4 +1,6 @@
-# Project 05: eFolio
-### :five: (web)
+# Project 05: ArtWare
+### :five: (Software Art)
 
-Building on the skills that you developed in the net.art assignment, further develop the provided portfolio template by customizing the formatting and styles in addition to uploading the previous artworks you have made in this class. The free domain you will get from [www.freenom.com]() should be forwarded to your portfolio web address hosted on Github.
+Students should explore interactive narratives, software art, simulations and emergent behaviors in code-based forms. Techniques and concepts must be presented through the open-source programming environment P5. The functional, interactive forms you present can be an imaginative structure, a self-portrait or any desired imagery.
+
+To download p5.js editor go to the following link: https://github.com/processing/p5.js-editor/releases/tag/v0.6.2
