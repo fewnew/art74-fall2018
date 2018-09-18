@@ -1,4 +1,4 @@
-# Project 02: cARds
-### :two: (vector)
+# Project 02: HypermediART
+### :two: (video and sound art)
 
-For this project, you will be creating a printed trigger image and an overlay to convey a larger, interactive, augmented reality experience. Your trigger image and overlay image should be in “conversation” with one another. In other words, the camera image together with the augmented one should create a new reading that emerges when both are seen together.
+Create a short (60 seconds) video composed of four 15-second clips to tell a short story, illustrate a scene, or communicate a mood. Bring your imagination out to play using media assets such as the original sounds, music, narrative voice, text and graphics. Think critically about horizontal/vertical format when you are recording and how you want the final output consumed by your viewers. The rules are simple, but the possibilities are endless!

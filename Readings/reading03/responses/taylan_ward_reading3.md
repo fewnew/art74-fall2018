@@ -1,0 +1,3 @@
+Through reading this reading I didn't know how useful infographics were for the majority of organizations that use it. These organizations use these infographics to help communicate without the use of speech. Infographics mainly use pictures and images to help deliver a message to a certain audience or people. Infographics are very easy to interpret and not to confusing because they hit the points and they are straightforward.
+
+Making infographics are so difficult and complicated to construct because you can't just make one and think that people are just going to know what you are talking about. You need to find your target and your point that you want to make. So you can have a straightforward idea and picture that you want to create.   
