@@ -9,7 +9,7 @@ cold stare. I'm afraid of dentists.
 ### Dimensions: 8.5"x8.5" <br>
 ### Attribution (google search) <br>
 
-![final collage](https://imgur.com/a/Fj5pvgM)
+![final collage](https://i.imgur.com/TSvVQVC.jpg)
 ***
 
 Link to PhotoMosh GIF image: https://media.giphy.com/media/kScipvjDpWjswwalp8/giphy.gif
