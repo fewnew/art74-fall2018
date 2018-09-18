@@ -1,0 +1,3 @@
+  AR art is a form of art that brings the art to life. It is a form of digital art. With AR art, devices act as a multisensory intrface organs to argument the body's skin and sensory receptors. No AR artwork is visible, all is on media or digitalized.
+
+   AR artist places visual and extravisual digital information into the physical world, making it viewable for people on devices such as the phone or tablet. The difference between AR art and VR is that VR you are cutting yourself off from the real world versus AR is more like a mixed reality. Therefore you are laying a vertual world on top of the real world. 
