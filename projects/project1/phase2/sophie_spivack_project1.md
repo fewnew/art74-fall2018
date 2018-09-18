@@ -1,6 +1,8 @@
 # Sophie Spivack: Project 1 <br>
 Floating within the creative yet busy space of the interweb, lies an Instagram post with an defaced female posing with several hashtags tags, commenting on society's obsession with self presentation within social media. While there is a sort of free flowing feeling from the image, I imagine it sounds like a loud mixture of white noise and hundreds of notification pings, crowding the mind. I pondered the obsession I see within the online media platforms I visit daily and how each day, users are trying to improve their content as they grab their followers with more striking imagery. The purpose of censoring the model's face is to put an emphasis on how society judges, more specifically females, for their bodies. In the caption below the image, the basic hashtags represent our modern society's lack of communication skills and how we tend to keep our lives on social media at surface level, never expanding into the depths of our thoughts, yet never displaying the negative aspects of our lives either. This work can be viewed at as two dimensional space from the college itself, but also in augmented reality with a GIF, conceived from the original or trigger collage. I was mostly influenced to create this work when observing the social media stars that have appeared in more recent years. <br>
-## Title: Likes <br>
+## Title: Like Me <br>
 ### Media: Print on 100lb paper + AR Overlay <br>
 ### Dimesions: 8.5 x 8.5 <br>
 #### Attribution: Image of female borrowed from Google Images. Background images of the prisms, angular image located at the top, the black dotted texture and the bottom layer of background with white detail is borrowed from Freepik.com. <br>
+![https://imgur.com/a/zEpXPJi][collage]
+## Link to Photomosh GIF Image: 
