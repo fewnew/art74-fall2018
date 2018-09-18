@@ -4,5 +4,5 @@ Floating within the creative yet busy space of the interweb, lies an Instagram p
 ### Media: Print on 100lb paper + AR Overlay <br>
 ### Dimesions: 8.5 x 8.5 <br>
 #### Attribution: Image of female borrowed from Google Images. Background images of the prisms, angular image located at the top, the black dotted texture and the bottom layer of background with white detail is borrowed from Freepik.com. <br>
-![collage][https://imgur.com/a/zEpXPJi]
+![final collage](https://imgur.com/a/zEpXPJi)
 ## Link to Photomosh GIF Image: 
