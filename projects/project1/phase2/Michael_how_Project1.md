@@ -8,4 +8,4 @@
   
 ![Final Collage](https://imgur.com/a/qIypZy2)
 
-# PhotoMosh Link: <https://media.giphy.com/media/3vsOOK2xb15NDhnqXm/giphy.gif>
+#### PhotoMosh Link: <https://media.giphy.com/media/3vsOOK2xb15NDhnqXm/giphy.gif>
