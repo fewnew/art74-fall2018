@@ -9,7 +9,7 @@ players that has been influencial and an inpiration to the artist. Note: the pie
 ### Dimensions: 8.5"x8.5" <br>
 ### Attribution (burrow and tell) <br>
 
-![final collage](https://imgur.com/a/drkPmbL)
+![final collage](https://i.imgur.com/uTvaj2J.jpg)
 ***
 
 Link to PhotoMosh GIF image: https://media.giphy.com/media/U7KQMJU4WhI7tMAtmb/giphy.gif
