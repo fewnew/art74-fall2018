@@ -1,7 +1,10 @@
 # Dylan Hardman - Project 1
 
 Description goes here
-
+What does your project look/sound/smell/feel like?
+What is the conceptual/personal/political motivation behind the project?
+What is the intended context? Where/how does the audience experience it?
+What/who are your influences for this particular piece?
 
 #### Binary Takeover
 #### Print on paper + AR overlay 
