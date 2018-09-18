@@ -2,10 +2,11 @@
 
 Description goes here
 
+
 #### Binary Takeover
-#### Medium: Print on paper + AR overlay 
-#### Dimensions: 8.5"x8.5" 
-#### Attribution:  Google Image Search, freepik.com
+#### Print on paper + AR overlay 
+#### 8.5"x8.5" 
+#### Attribution: Google Image Search, freepik.com
 
 ![alt text](https://i.imgur.com/asqNtNz.jpg)
 
