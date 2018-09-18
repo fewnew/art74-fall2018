@@ -3,7 +3,7 @@
 My project was focused on my hometown Oakland. I'e lived in Oakland all my life so I just wanted to express my love for the city. In the project, I added images of what makes up Oakland like the sports teams, points of interest, and artwork around the city.
 ***
 
-### Title of the work <Oakland>
+### Title of the work Oakland <br>
 ### Medium: Print on paper + AR overlay <br>
 ### Dimensions: 8.5"x8.5" <br>
 ### Attribution (Freepik, Google Search)
