@@ -6,9 +6,9 @@ My project was focused on my hometown Oakland. I'e lived in Oakland all my life 
 ### Title of the work <Oakland>
 ### Medium: Print on paper + AR overlay <br>
 ### Dimensions: 8.5"x8.5" <br>
-### Attribution (burrow and tell)
+### Attribution (Freepik, Google Search)
 
-![final collage](https://imgur.com/a/Z99hZXQ)
+![final collage](https://imgur.com/a/TDQJwnB)
 ***
 
 Link to PhotoMosh GIF image: https://media.giphy.com/media/1NQACbmR6qeaNrhAoV/giphy.gif
