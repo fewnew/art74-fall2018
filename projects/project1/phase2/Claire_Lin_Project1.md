@@ -1,3 +1,5 @@
+# Claire Lin - Project1
+
 Title: Mental Health
 Medium: Print on Paper and AR overlay
 Dimensions: 8.5” x 8.5”
@@ -8,7 +10,7 @@ Description:
 
 Because of what goes on in our lives, we forget to remember what makes us calm and relaxed from time to time. With the flowers floating and moving, this adds on to how our thoughts could also be everywhere. Our lives could be filled with busy schedules, such as going to school, work, raising a family, and much more. I intend to send a message: at the end of the day, no matter what emotions, thoughts, or tasks that overwhelm you, everything will be okay. I also believe that a circular atmosphere of feelings and emotions help shape an experience while looking at it. As a college student that works and goes to school, everything can feel overwhelming, which brought inspiration to my project.
 
-
-![Alt text](https://imgur.com/a/mTkLkjx)
+![Alt text](https://i.imgur.com/7wLnPKM.jpg)
+***
 
 Link to photomosh Gif https://media.giphy.com/media/9Jegra8MzbQpzBcyFc/giphy.gif
