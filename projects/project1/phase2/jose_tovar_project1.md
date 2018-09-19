@@ -8,7 +8,7 @@ My project was focused on my hometown Oakland. I'e lived in Oakland all my life 
 ### Dimensions: 8.5"x8.5" <br>
 ### Attribution (Freepik.com, Google Search)
 
-(https://imgur.com/a/hXGBX5V)
+![final collage] (https://i.imgur.com/FtLrMmS.jpg)
 ***
 
 Link to PhotoMosh GIF image: https://media.giphy.com/media/1NQACbmR6qeaNrhAoV/giphy.gif
