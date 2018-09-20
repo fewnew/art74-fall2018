@@ -1,7 +1,7 @@
 # Gerardo Hernandez - Project 1
 My project is based on old arcade games that were usually in those big arcade machines. I am a huge fan when it comes to older/retro games so for this project I just wanted to make my peice about that.
 
-Title:A blast from the past
+Title: A blast from the past
 
 Medium: Print + AR Overlay
 Dimensions:8.5"x8.5"
