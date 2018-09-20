@@ -11,6 +11,6 @@ I did my best to use the tools in Adobe Illistrator to try and create some sort 
 ### Dimensions: 8.5"x8.5"
 ### Attribution (google image search, personal photographs)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/OZoFipb"><a href="//imgur.com/OZoFipb"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+! [final collage] (https://imgur.com/a/OZoFipb)
 
 https://media.giphy.com/media/2w4OxbpXRsdOgrbLPf/giphy.gif
