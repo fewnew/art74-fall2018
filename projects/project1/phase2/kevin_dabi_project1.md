@@ -7,7 +7,7 @@ players that has been influencial and an inpiration to the artist. Note: the pie
 ### Title: Legends <br>
 ### Medium: Print on paper + AR overlay <br>
 ### Dimensions: 8.5"x8.5" <br>
-### Attribution (burrow and tell) <br>
+### Attribution (google search) <br>
 
 ![final collage](https://i.imgur.com/uTvaj2J.jpg)
 ***
