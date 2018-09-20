@@ -5,5 +5,5 @@ My work is based off a song from the KPop boy group, Stray Kids. The song is cal
 ### Medium - Print on Paper + AR Overlay
 ### Dimensions - 8.5" x 8.5"
 ### Attribution - Tumblr Images
-
+https://github.com/fewnew/art74-fall2018/blob/master/projects/project1/final-collage/patricia_ngo_finalcollage.jpg?raw=true
 Link to GIF - https://giphy.com/gifs/X8zoaZcdiXLz47YHk7
