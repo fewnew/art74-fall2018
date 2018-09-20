@@ -13,6 +13,8 @@ By combining my past travels from last year and this year, I can tell others to 
 ### Dimensions: 8.5"x8.5" <br>
 ### Atribution: None <br>
 
-![Final collage] (https://i.imgur.com/yvRkqtI.jpg)
+![final collage](https://i.imgur.com/yvRkqtI.jpg)
+***
 
 Link to photomosh GIF: https://media.giphy.com/media/Lp5Gh4rmPptr81m3cO/giphy.gif
+
