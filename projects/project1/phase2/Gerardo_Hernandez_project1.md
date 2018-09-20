@@ -10,4 +10,4 @@ Dimensions:8.5"x8.5"
 Attributions: (google search,pinterest.com)
 ![gerardo_hernandez_finalcollage](https://user-images.githubusercontent.com/42582681/45798357-82128680-bc5e-11e8-905a-547f5788f8b0.jpg)
 
-Link to Photomosh GIF Image:https://media.giphy.com/media/8L0T4POPeBCS8k1HJh/giphy.gif
+Link to Photomosh GIF Image: https://media.giphy.com/media/28n1c4sf3jKqneEMVG/giphy.gif
