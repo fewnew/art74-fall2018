@@ -19,4 +19,4 @@ The design of the image is to present a comfortable and rich response to the sof
 #### 8.5"x8.5"
 #### Attribution: freepik.com
 
-![alt text](https://imgur.com/a/sIJlAAv)
+!(https://imgur.com/a/sIJlAAv)
