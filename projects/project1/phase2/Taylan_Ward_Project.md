@@ -1,6 +1,6 @@
 # Taylan Ward - Project1
 
-The project "Baseball" it shows different baseball players that play in the MLB and some of them that are in the picture has retired as well. I don't really no why I choose these certain players. I basically choose a couple players I do know and sokme players who I have no clue about.
+The project "Baseball" it shows different baseball players that play and played in the MLB. I don't really no why I choose these certain players. I basically choose a couple players I  know and some players who I have no clue about.I just really like the game of baseball.
 ***
 
 ### Title: Baseball <br>
