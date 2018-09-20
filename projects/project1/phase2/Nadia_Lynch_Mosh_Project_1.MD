@@ -18,5 +18,5 @@ The design of the image is to present a comfortable and rich response to the sof
 #### Print on paper + AR overlay
 #### 8.5"x8.5"
 #### Attribution: freepik.com
-![final collage](https://imgur.com/a/sIJlAAv)
-***
+(https://imgur.com/a/sIJlAAv)
+
