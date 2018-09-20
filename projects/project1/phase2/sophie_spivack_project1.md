@@ -5,4 +5,4 @@ Floating within the creative yet busy space of the interweb, lies an Instagram p
 ### Dimesions: 8.5 x 8.5 <br>
 #### Attribution: Image of female borrowed from Google Images. Background images of the prisms, angular image located at the top, the black dotted texture and the bottom layer of background with white detail is borrowed from Freepik.com. <br>
 ![final collage](https://i.imgur.com/EdEBmGX.jpg)
-## Link to Photomosh GIF Image: ![like GIF](file:///Users/sophiespivack/Desktop/sophie_spivack_finalmosh.gif)
+## Link to Photomosh GIF Image: ![like GIF](https://media.giphy.com/media/dYnfZzdLYryRA9qqCW/giphy.gif)
