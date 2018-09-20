@@ -5,6 +5,6 @@ For this project I had many ideas in mind and I didn't know if I could pull it o
 ### Medium: Print on 100Ib paper + AR overlay
 ### Dimensions: 8.5 x 8.5
 ### Attributions: (Freepik.com, Google Images)
-![final collage](https://imgur.com/cZXmoiR)
+![final collage](https://imgur.com/cZXmoiR.png)
 ***
 Link to PhotoMosh GIF image: https://media.giphy.com/media/3D1g9NNi0ZYrYiD15a/giphy.gif
