@@ -4,7 +4,9 @@ My project is based on old arcade games that were usually in those big arcade ma
 Title: A blast from the past
 
 Medium: Print + AR Overlay
+
 Dimensions:8.5"x8.5"
+
 Attributions: (google search,pinterest.com)
 ![gerardo_hernandez_finalcollage](https://user-images.githubusercontent.com/42582681/45798357-82128680-bc5e-11e8-905a-547f5788f8b0.jpg)
 
