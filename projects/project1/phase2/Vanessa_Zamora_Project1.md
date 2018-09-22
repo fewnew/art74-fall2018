@@ -9,6 +9,6 @@ new advances in technology.
 ### Medium: Print on 100lb paper + AR overlay
 ### Dimensions: 8.5" x 8.5"
 ### Attributions: Freepik.com and Google Images
-! [Project 1 - Final Collage] (https://imgur.com/a/PMxgdqO)
+![final collage](https://imgur.com/a/PMxgdqO)
 ***
-Link to Photomosh GIF image: https://media.giphy.com/media/1rK5z0FjNwcRsZ2gQY/giphy.gif
+Link to PhotoMosh GIF image: https://media.giphy.com/media/1rK5z0FjNwcRsZ2gQY/giphy.gif
