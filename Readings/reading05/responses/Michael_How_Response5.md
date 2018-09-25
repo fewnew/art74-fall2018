@@ -1,0 +1,3 @@
+  New style of art was created to attempt to defy modernist art and the commercialist. Pop art began to fill the galleries and even anti art events began to become popular. The use of portable video equimpent exploded very quickly. It was brand new idea and had no history but had potential. New form of media such as radio broadcasting ideas such as different cultural and political ideas. 
+  
+  Media such as radio, television began to pop to explore outside of the mainstream channels. In the art world video was used to capture live performances, that had no way to transportation, therefore making these portable equipment more accessible. A lot of performances were solo and used with their own props in front of a single camera.
