@@ -14,5 +14,5 @@ Null
 
 ---
 
-![Supreme Leaders](https://media.giphy.com/media/2sYciUMkTYix7NdWu4/giphy.gif)
+Link to PhotoMosh GIF image: https://media.giphy.com/media/2sYciUMkTYix7NdWu4/giphy.gif
 
