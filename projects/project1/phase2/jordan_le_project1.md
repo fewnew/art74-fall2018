@@ -12,7 +12,7 @@ Null
 
 ### Attribution:
 
-![Supreme Leaders](https://imgur.com/a/Ucjv38f)
+![Supreme Leaders](https://imgur.com/PWwzw69)
 
 ---
 
