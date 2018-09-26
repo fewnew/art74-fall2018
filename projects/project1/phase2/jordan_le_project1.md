@@ -12,7 +12,7 @@ Null
 
 ### Attribution:
 
-![Supreme Leaders](https://blipps.blippar.com/blipps/QmxpcHA6MjE2NjM5/markers?blippVersion=QmxpcHBWZXJzaW9uOjk3MTExMA%3D%3D&marker=TWFya2VyOjM1NjU5NA%3D%3D)
+![Supreme Leaders](https://imgur.com/a/Ucjv38f)
 
 ---
 
