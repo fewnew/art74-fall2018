@@ -12,7 +12,7 @@ Null
 
 ### Attribution:
 
-![Supreme Leaders](file:///C:/Users/jorda/Desktop/Art74(Fall%202018)/Photoshop%20Work/Jordan_Le_Collage_Final.png)
+![Supreme Leaders](https://imgur.com/CR1ic7e.png)
 
 ---
 
