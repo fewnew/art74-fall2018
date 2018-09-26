@@ -6,11 +6,11 @@ Null
 
 ### Title: Interdimensional Realm
 
-### Medium:
+### Medium: Print on 100 lb paper + AR overlay
 
 ### Dimensions: 8.5 in x 8.5 in
 
-### Attribution:
+### Attribution: 
 
 ![Supreme Leaders](https://imgur.com/CR1ic7e.png)
 
