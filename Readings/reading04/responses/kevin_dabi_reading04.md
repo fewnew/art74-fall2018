@@ -1,0 +1,3 @@
+Augmented reality is such an interesting idea. I find it amazing how people can make a visual representation of a digital object in the real world. Sometimes, you can even interact with the object which is so cool. The object is not real and only seems like an illusion but you can interact with it which makes it ten time more awesome. I think it’s really complicated and complex to make. There’s so much that goes into making it from coding to designing which is crazy.
+
+It opens more possibilities in technology in the world. I wonder what the future would look like with augmented reality existing right now. Will there be holograms or anything since augmented reality are kind of holograms in a way.
