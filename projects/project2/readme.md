@@ -5,33 +5,33 @@ Create a short (60 seconds) video composed of four 15-second clips to tell a sho
 
 ## Related Youtube tutorials to demos done in class
 
-__Export video for Youtube/Vimeo:__
-https://www.youtube.com/watch?v=J-_MwtGaHjA
+__Export video for Youtube/Vimeo:__ <br>
+https://www.youtube.com/watch?v=J-_MwtGaHjA <br>
 
-__Green Screen/Chromakey:__
-https://www.youtube.com/watch?v=CXqjQZB9wTg
+__Green Screen/Chromakey:__ <br>
+https://www.youtube.com/watch?v=CXqjQZB9wTg <br>
 
-__Unlink Audio from video:__
-https://www.youtube.com/watch?v=wy6bStEsyT8
+__Unlink Audio from video:__ <br>
+https://www.youtube.com/watch?v=wy6bStEsyT8 <br>
 
-__Changing speed of footage:__
-https://www.youtube.com/watch?v=zKgWAWSBP2A
+__Changing speed of footage:__ <br>
+https://www.youtube.com/watch?v=zKgWAWSBP2A <br>
 
-__Kaleidoscope & Mirror:__
-https://www.youtube.com/watch?v=jQ0zSFytwXM
-https://www.youtube.com/watch?v=0zwVDst6zk4
+__Kaleidoscope & Mirror:__ <br> 
+https://www.youtube.com/watch?v=jQ0zSFytwXM <br>
+https://www.youtube.com/watch?v=0zwVDst6zk4 <br>
 
-__Preset Effects:__
-Retro -> https://www.youtube.com/watch?v=_zndmOG0m5Q
-Lumetri -> https://www.youtube.com/watch?v=0VDbf9VsZ88
+__Preset Effects:__ <br>
+Retro -> https://www.youtube.com/watch?v=_zndmOG0m5Q <br>
+Lumetri -> https://www.youtube.com/watch?v=0VDbf9VsZ88 <br>
 
-__Apply video inside text:__
-https://www.youtube.com/watch?v=Xf1ciT0kUno
+__Apply video inside text:__ <br>
+https://www.youtube.com/watch?v=Xf1ciT0kUno <br>
 
-__Blending Modes:__
-https://www.youtube.com/watch?v=wtc_ZkEbyU4
+__Blending Modes:__ <br>
+https://www.youtube.com/watch?v=wtc_ZkEbyU4 <br>
 
-__Boomerang style video:__
-https://www.youtube.com/watch?v=Mwr-AJV0t5w
+__Boomerang style video:__ <br>
+https://www.youtube.com/watch?v=Mwr-AJV0t5w <br>
 
 
