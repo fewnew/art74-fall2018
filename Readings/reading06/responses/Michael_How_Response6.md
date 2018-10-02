@@ -1,0 +1,3 @@
+    Over history it shows how people have modified copyrighted content to make them into something else. Mashing up is where you take two things and combine it into one, this can be found in music, and visual media such as movies. They have said that the past always tries to control the future. Ultimately the future is becoming less free putting copy right on almost every type of media out there.
+  
+    Mashups can be found in music, movies, or any type of media. The biggest example is music, and DJ are able to combine two songs and somewhat throw his or her own twist on the two songs to make it their own. They're called remixes, we hear them almost everyday in the car or on our media devices.
