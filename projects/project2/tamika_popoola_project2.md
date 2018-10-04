@@ -2,7 +2,8 @@
 
 **Title:** Stars  
 **Medium:** 1080p Raster Animation on 1080p video
-**Dimensions:** 1920*1080; 00:60  
+**Dimensions:** 1920*1080  
+**Duration:** 00:60  
 **Attributions:**   
 
 - Pexels [1](https://videos.pexels.com/videos/sea-of-clouds-855679), [2](https://videos.pexels.com/videos/cloudy-sky-after-the-rain-1371078), [3](https://videos.pexels.com/videos/time-lapse-video-of-milky-way-galaxy-857134), [4](https://videos.pexels.com/videos/time-lapse-video-of-sunrise-by-the-sea-854638)
