@@ -7,7 +7,7 @@
 **Attributions:**   
 
 - Pexels [1](https://videos.pexels.com/videos/sea-of-clouds-855679), [2](https://videos.pexels.com/videos/cloudy-sky-after-the-rain-1371078), [3](https://videos.pexels.com/videos/time-lapse-video-of-milky-way-galaxy-857134), [4](https://videos.pexels.com/videos/time-lapse-video-of-sunrise-by-the-sea-854638)
-- Awake - Jin, BTS Music Box
+- [Awake - Jin, BTS Music Box](https://www.youtube.com/watch?v=aUnxDdP8CWY)
 
 **Description:** I learned to feel a lot better once I began to see my inner flaws as freckles. I haven't yet grown to see them as stars, but I wanted to illustrate this self-love process with my video. Being used to Adobe Premiere, I wanted to focus on animation, something I've never done before.  
 
