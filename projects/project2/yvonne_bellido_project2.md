@@ -7,5 +7,6 @@
 ### Transitioned Graphics: Premiere Pro
 
 Description:
-For my video project, I took an idea I have been having since I recorded my Grandmother singing last year. I wanted images of photographs with a voice over of my Grandmother's singing to give a sense of family and reminiscing on moments captured through a photograph. 
+
+For my video project, I took an idea I have been having since I recorded my Grandmother singing last year. I wanted images of photographs with a voice over of my Grandmother's singing to give a sense of family and reminiscing on moments captured through a photograph.
 Full Video: https://youtu.be/KcuPtJdA28Y
