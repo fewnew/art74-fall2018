@@ -2,9 +2,9 @@
 
 Premier Pro/DSLR 1080
 
-Harmonizing Human Nature ~
+Harmonizing Human Nature
 
-     This video art project was my first attempt ever to use software of any sort to make a video with use of different types 
+This video art project was my first attempt ever to use software of any sort to make a video with use of different types 
 of footage. The footage includes both videos and photgraphs I shot, and some oil paintings I painted, some of which I 
 have moshed and turned into giphs as well. Using many techniques we are learning about in class (as best as I could) 
 including the green screeen effect, along with some wonderful videos found on pexel, all of which have been incorportaed 
