@@ -1,4 +1,7 @@
-Humanity video 2:13 min Shimmer-seagull 
+Humanity 
+video 2:13 min 
+Shimmer-seagull
+
 I wanted my video to showcase the warm feeling of people's smiles and at their best moments. 
 I also included other videos to show what warmth in nature felt like.
 There is no real plot except for showing what nice feelings is.
