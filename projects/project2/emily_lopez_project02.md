@@ -1,7 +1,9 @@
+Title of the work: Magic Toothbrush
 
-Title of the work: Magic Toothbrush 
 Medium: Video 
+
 Dimensions/duration: 1 min 49 seconds
+
 Attribution (burrow and tell): Stock fotage taken from Pexels and self recorded video
 
 My video is meant to feel like a mystery, the viewer is not supposed to know what they are in store for. 
