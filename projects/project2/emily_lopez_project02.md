@@ -1,8 +1,8 @@
 
-Title of the work: <b> Magic Toothbrush </b>
-Medium: <b> Video </b>
-Dimensions/duration: <b> 1 min 49 seconds</b>
-Attribution (burrow and tell) <b>Stock fotage taken from Pexels and self recorded video/b>
+Title of the work: Magic Toothbrush 
+Medium: Video 
+Dimensions/duration: 1 min 49 seconds
+Attribution (burrow and tell): Stock fotage taken from Pexels and self recorded video
 
 My video is meant to feel like a mystery, the viewer is not supposed to know what they are in store for. 
 When the package shows up, it could be something scary or something magical (like the toothbrush). 
