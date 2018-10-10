@@ -1,0 +1,3 @@
+  With the popularization of web browsing in the 1990s, artists began to find a way around traditional modes of display in institutional art settings by creating interactive, interconnected viewing experiences. Net art contains a wide range of works created by artists using web browsers, developer codes, scripts, search engines, and other online tools. To me this seems very similar to glitch art.
+  
+    To me net art and glitch art are some what similar. Being able to use code, the web, or software to construct something with those tools. Such as being able to use code to make an image. I think Netart is a new and growing idea of art especially in the 21st century. 
