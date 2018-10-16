@@ -3,9 +3,9 @@
 ## Into the Rabbit Hole
 
 #### Medium:
-##### WebGL and Virtual Reality
+WebGL and Virtual Reality
 #### Dimensions
-##### Smartphone Screen or Desktop
+Smartphone Screen or Desktop
 #### Models from poly.google.com
 
 #### Artist's Description: 
