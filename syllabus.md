@@ -81,7 +81,7 @@ For the final paper, write a 5-page PDF document including:
 * Two pages for your research statement that addresses your technical, conceptual, theoretical and development processes. You are encouraged to link to videos, images and sounds to support your explanations.
 
 ## Grading Information
-n order to be graded, documentation and description of your work must be submitted to GitHub. Students will not receive a grade until their work is submitted with the corresponding documentation and description.
+In order to be graded, documentation and description of your work must be submitted to GitHub. Students will not receive a grade until their work is submitted with the corresponding documentation and description.
 
 ### Documentation
 1. Title of the work
