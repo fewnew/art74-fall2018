@@ -6,11 +6,18 @@ Using three objects/forms that are from both existing and found (downloaded from
 ---
 
 ### Websites for downloading 3D Models
+Models you download that work in MeshMixer need to be .obj or .stl extensions.
 * https://poly.google.com
 * https://www.yobi3d.com
 
 ### Tutorials related to demos done in class
 
 * Sketchfab https://www.youtube.com/watch?v=z0U1MB5REpw (start watching at 15:42)
-* 
-
+* How to Mashup downloaded 3D models https://www.youtube.com/watch?v=7ifpToYLJ4o
+* Sculpting https://www.youtube.com/watch?v=Sy3bz01mN-0 <br>
+https://www.youtube.com/watch?v=vcuql01165o&t=57s
+* Low Poly https://www.youtube.com/watch?v=921cDYBpuL4
+* Surface Pattern https://www.youtube.com/watch?v=eded6BbR59U
+* Mesh Mix https://www.youtube.com/watch?v=N8V9UnaD0Hc
+* Stencil https://www.youtube.com/watch?v=r-SQVprRdrg&t=29s <br>
+https://www.youtube.com/watch?v=DLNU95qIiPU
