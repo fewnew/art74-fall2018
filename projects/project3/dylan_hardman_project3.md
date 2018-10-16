@@ -2,7 +2,8 @@
 
 ## Into the Rabbit Hole
 
-#### VR 3D Model
+#### WebGL and Virtual Reality
+#### Dimensions of Smartphone Screen or Desktop
 #### Models from poly.google.com
 
 #### Description: 
