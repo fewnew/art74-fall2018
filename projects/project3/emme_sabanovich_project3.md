@@ -1,15 +1,15 @@
 
-  #Emme Sabanovich-Project 3
+Emme Sabanovich-Project 3
   ***
-###Title: Another World  
+Title: Another World  
  *** 
-###Medium: Web GL & Virtual Reality  
+Medium: Web GL & Virtual Reality  
 ***  
-###Dimension: Mobile or Desktop Screen Size  
+Dimension: Mobile or Desktop Screen Size  
 ***  
-###Attributions: Qlone; Yobi3D; Meshmixer; Sketchfab    
+Attributions: Qlone; Yobi3D; Meshmixer; Sketchfab    
 ***
-###Desciption:
+Desciption:
 My virtual scene is a combination of 3D figuration scanned and uploaded from qlone, free 3D image from yobi3D free uploads,
 as well as shapes combined from meshmix. All of these images were collaged together and reshaped and contoured through meshmix
 before then uploading to sketchfab and continuing to manipulte the 3D structures even more. This included a major play on 
