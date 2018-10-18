@@ -81,7 +81,7 @@ For the final paper, write a 5-page PDF document including:
 * Two pages for your research statement that addresses your technical, conceptual, theoretical and development processes. You are encouraged to link to videos, images and sounds to support your explanations.
 
 ## Grading Information
-n order to be graded, documentation and description of your work must be submitted to GitHub. Students will not receive a grade until their work is submitted with the corresponding documentation and description.
+In order to be graded, documentation and description of your work must be submitted to GitHub. Students will not receive a grade until their work is submitted with the corresponding documentation and description.
 
 ### Documentation
 1. Title of the work
@@ -198,8 +198,8 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 7 | Thu, 10/04 | **Lecture:**  — <br> **Lab:** In-class presentation and critical review of Project 02. <br> **Deliver:** [Project 02 (HypermediART)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project2).
 8 | Tue, 10/09 | **Lecture:** Three-Dimensional Art: Form, volume and mass. <br> **Lab:**  Intro to photogrammetry ↣ 3D reality capture with Qlone smartphone app. <br> **Deliver:** [Reading 06](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading06) // in class discussion on the reading.
 8 | Thu, 10/11 | **Lecture:**  — <br> **Lab:** Intro to 3D sculpting with MeshMixer ↣ Topics on mesh smoothing and free-form deformations, mesh simplification and repair. <br> **Deliver:** Assignment 08 (Fragment Collection).
-9 | Tue, 10/16 | **Lecture:** — <br> **Lab:** Intro to SketchFab and displaying 3D computer graphics in a web browser and VR. <br> **Deliver:** Progress on Project 04 + Print of screenshot from 3D scan modified in Sketchfab.
-9 | Thu, 10/18 | **Lecture:**  — <br> **Lab:** In-class presentation and critical review of Project 04. <br> **Deliver:**  [Project 04 (3D MeshMash)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project4#project-04-3d-meshmash).
+9 | Tue, 10/16 | **Lecture:** — <br> **Lab:** Intro to SketchFab and displaying 3D computer graphics in a web browser and VR. <br> **Deliver:** Progress on Project 04.
+9 | Thu, 10/18 | **Lecture:**  — <br> **Lab:** In-class presentation and critical review of Project 04. <br> **Deliver:**  [Project 04 (3D MeshMash)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project4#project-04-3d-meshmash) +  + ScreenShot Print: Assignment 08 (ScreenShot).
 10 | Tue, 10/23 | **Lecture:** Web literacy (HTML/CSS/JavaScript) as a contemporary art form. <br> **Lab:** Intro to experimental generative 3D in the browser + HTML basics. <br> **Deliver:** [Reading 07](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading07/Greene%2C%20Rachel%20-%20Web%20Work%2C%20A%20History%20of%20Internet%20Art.pdf) //  in class discussion on the reading.
 10 | Thu, 10/25 | **Lecture:**  — <br> **Lab:** Intro to CSS and user interface design using color palettes, Google web fonts, Fontawesome iconography. <br> **Deliver:** Assignment 05 (Hyperlinked Narrative).
 11 | Tue, 10/30 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 05. <br> **Deliver:** [Project 05 (eFolio)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project5#project-05-efolio).
