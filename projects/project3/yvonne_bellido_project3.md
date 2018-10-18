@@ -13,6 +13,6 @@ Floating Tree: https://poly.google.com/view/5T0zcIg6cVd <br>
 ##### Plane of 3D from the software Meshmixer <br>
 
 ## Description: <br> 
-Throughout my 3D model, I decided to go for a natural environment, but with a odd field.
+Throughout my 3D model, I decided to go for a natural environment with a odd twist. 
 
 Link: https://skfb.ly/6C98O
