@@ -14,6 +14,6 @@ Smartphone and Desktop
 
 ## Description:
 
-I basically did my work on a halloween theme. The work has a tone of blood in the objects, a floating ghost, and fingers to represent creatures underground. I made all of the main edits in the sketchfab website. Overall, meant for being creepy.
+I basically did my work on a halloween theme. The work has a tone of blood in the objects, a floating ghost, and fingers to represent creatures underground. The underground fingers are supposed to be trapping the car. I made all of the main edits in the sketchfab website. Overall, meant for being creepy.
 
 https://skfb.ly/6Cs9T
