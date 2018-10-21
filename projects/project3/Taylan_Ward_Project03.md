@@ -17,5 +17,6 @@ Plane of 3D - Meshmixer
 
 Description: 
 What I did for my model was very simple and I wanted people to easily get the art. It is a world full of bunnies that are being created from the sky to fight to the death. Which ever bunny is the last one standing is going to be crown king of the hill. Only thing is that every other day more bunnies will fall from the sky to fight and take the crown from the current victor.
+
 Link:
 https://sketchfab.com/models/0cbfb6773eba48d2b863c4386825c43d
