@@ -6,7 +6,7 @@ brought about was occuring though an email which at the time emails were a huge 
 As computers have drastically changed from what looked like a huge washing machine for clothes to now so poratble, quick , and fast
 advanced machinery to communicate in a number of ways including artistically, so to have the effects and possiblities of what computers and the web can do
 in terms of creating what could be considered more ellaborate works of net.art. 
-I can see how what we learned of as "glitch art," is a type of net.art or even more so what is is in terms of definition overall
+      I can see how what we learned of as "glitch art," is a type of net.art or even more so what is is in terms of definition overall
 the way art is created via web using code and urls to create certain works of digital art that would not otherwise even exist without 
 the grounds of the web for it to exist within. It creates a whole new language and world though technology that I struggle yet to understand 
 but find it fascinating none the less. For myself the coding is very difficult I find it amazing how some people can be so 
