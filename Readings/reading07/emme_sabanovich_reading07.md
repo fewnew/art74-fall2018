@@ -12,7 +12,7 @@ in terms of creating what could be considered more ellaborate works of net.art.
 the way art is created via web using code and urls to create certain works of digital art that would not otherwise even exist without 
 the grounds of the web for it to exist within. It creates a whole new language and world though technology that I struggle yet to understand 
 but find it fascinating none the less. For myself the coding is very difficult I find it amazing how some people can be so 
-patient with the trail and error of creating, what in a sense is a dilogue of its own, behind these works of net.art creating from 
+patient with the trial and error of creating, what in a sense is a dilogue of its own, behind these works of net.art creating from 
 scratch like that. I mean technically speaking the other digital art you see on the web that isn't created through code, also couldn't exist 
 without the web, but the coding and all is what actulally makes evryhting on the web. What I mean is that is is nice to be able to 
 create things on the web as art without having to do the technical coding behind it. Learning about coding and how technicle and 
