@@ -2,6 +2,8 @@
 
 ## Dylan Hardman ART74 Portfolio Website
 
+https://imgur.com/a/11dRKuT
+
 #### Medium:
 HTML/CSS/Javascript
 #### Dimensions
