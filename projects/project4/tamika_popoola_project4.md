@@ -8,4 +8,4 @@
 **Dimensions:** Responsive Screen Size  
 **Attributions:** W3 Schools: Small Assignments Grid  
 
-**Description:** I basically injected this project into a portfolio website I've been working on from scratch, over the summer. In the end I hope to run it off of WordPress. This is also why I didn't use a FreeNom URL, as I plan to buy my own from GoDaddy after I finish implementing into WordPress.
+**Description:** I basically injected this project into a portfolio website I've been working on from scratch, over the summer. In the end I hope to run it off of WordPress. This is also why I didn't use a FreeNom URL, as I plan to buy my own from GoDaddy after I finish implementing into WordPress. Additionally, I don't mind the domain hikatamika.github.io. The difference between it and hikatamika.tk would be minimal. 
