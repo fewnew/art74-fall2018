@@ -1,0 +1,3 @@
+Generative software is any art uses a system such as natural language or the computer software that creates some work of art. Now days it is completely fashonable. Generative art describes processes designed by the rules are automatically running from computer or machine using math or pragmatics. Once set it motion it will continue to run. This is a software that will just run and the outcomes are unpredictable.
+
+Software art on the other hand, describes the activity of the material, software allows for a critical reflection of software. This focuses more on the actual code itself. Software art makes the visible aesthetics subtexts of seemingly neutral technical demands. 
