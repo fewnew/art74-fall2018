@@ -1,0 +1,3 @@
+Artists in the 90s started creating work that involves using web browsers, codes and more to make new types of art. These online tools were a new to the scene and also, new to me since I have never experienced or worked with codes in my whole life. This type of art lets artists to build off each others’ work just like we practiced with Nick Breeze’s coding site, using his codes and basic graphics to make work of our own. 
+
+In the 90s, this type of art became popular and companies began to use this within campaigns and more. As the internet has become more accessible for people, so has this type of art. I find it so interesting that this is the type of art we can find on the internet as opposed to the kind of art we see on our social media sites regularly. 

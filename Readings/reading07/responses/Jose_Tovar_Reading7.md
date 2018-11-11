@@ -1,0 +1,3 @@
+After reading the article, it was interesting to see how the net web works. Seeing how artists used code for art back in the day was really interesting. We’ve made such an improvement in our digital art websites that it seems totally different. Seeing how the email was through an accident was pretty weird since it led to a bunch of opportunities for art in the web.
+
+Net art seems very cool and could also be related a bit like glitch art. Anyone is pretty much able to do whatever they want in the internet and can make whatever they want and still call it art. Overall, a very interesting read on the history of the web with art.
