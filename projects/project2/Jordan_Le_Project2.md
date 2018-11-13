@@ -1,1 +1,3 @@
-# Jordan Le - Project 2
+# Project 2: HypermeiART
+
+## hi
