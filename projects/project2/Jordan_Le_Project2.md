@@ -16,5 +16,5 @@ The
 
 ---
 
-https://vimeo.com/300668689
+Link to my HypermediART video: https://vimeo.com/300668689
 
