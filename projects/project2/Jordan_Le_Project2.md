@@ -6,13 +6,13 @@
 
 ### Dimensions: 1920 x 1080
 
-### Attributions: Premiere, Pexels Videos, Bensound
+### Attributions: Premiere, Pexels Videos, Bensound, vimeo
 
 ### Duration: 1 min 7 sec
 
 ---
 
-The
+From Nature to Urban is my title for my HypermediART project.  
 
 ---
 
