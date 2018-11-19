@@ -203,7 +203,7 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 10 | Tue, 10/23 | **Lecture:** Web literacy (HTML/CSS/JavaScript) as a contemporary art form. <br> **Lab:** Intro to experimental generative 3D in the browser + HTML basics. <br> **Deliver:** [Reading 07](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading07/Greene%2C%20Rachel%20-%20Web%20Work%2C%20A%20History%20of%20Internet%20Art.pdf) //  in class discussion on the reading.
 10 | Thu, 10/25 | **Lecture:**  — <br> **Lab:** Intro to CSS and user interface design using color palettes, Google web fonts, Fontawesome iconography. <br> **Deliver:** Assignment 05 (Hyperlinked Narrative).
 11 | Tue, 10/30 | **Lecture:**  — <br> **Lab:** Intro to web hosting directly from a GitHub repository + GitHub Pages. <br> **Deliver:** Progress on Project 05.
-11 | Thu, 11/01 | 
+11 | Thu, 11/01 | ** HTML + CSS Debugging Session **
 12 | Tue, 11/06 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 05. <br> **Deliver:** [Project 05 (eFolio)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project5#project-05-efolio) + All prints +[Reading 08](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading08/Arns_Inke_Read_me_run_me_execute_me%20.pdf) //  in class discussion on the reading.
 12 | Thu, 11/08 | ** Preparing for the exhibition in Herbert Sanders Gallery, located in the IS building. **
 13 | Tue, 11/13 |  ** Preparing for the exhibition in Herbert Sanders Gallery, located in the IS building. **
