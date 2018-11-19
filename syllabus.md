@@ -203,17 +203,17 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 10 | Tue, 10/23 | **Lecture:** Web literacy (HTML/CSS/JavaScript) as a contemporary art form. <br> **Lab:** Intro to experimental generative 3D in the browser + HTML basics. <br> **Deliver:** [Reading 07](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading07/Greene%2C%20Rachel%20-%20Web%20Work%2C%20A%20History%20of%20Internet%20Art.pdf) //  in class discussion on the reading.
 10 | Thu, 10/25 | **Lecture:**  — <br> **Lab:** Intro to CSS and user interface design using color palettes, Google web fonts, Fontawesome iconography. <br> **Deliver:** Assignment 05 (Hyperlinked Narrative).
 11 | Tue, 10/30 | **Lecture:**  — <br> **Lab:** Intro to web hosting directly from a GitHub repository + GitHub Pages. <br> **Deliver:** Progress on Project 05.
-11 | Thu, 11/01 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 05. <br> **Deliver:** [Project 05 (eFolio)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project5#project-05-efolio) + All prints +[Reading 08](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading08/Arns_Inke_Read_me_run_me_execute_me%20.pdf) //  in class discussion on the reading.
-12 | Tue, 11/06 | **Lecture:** Writing code within the context of the visual arts. <br> **Lab:** Intro to Processing ↣ Topics on drawing a sketch with basic programming. <br> **Deliver:** [Reading 09](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading09/hello-processing.md) //  in class discussion on the reading.
+11 | Thu, 11/01 | 
+12 | Tue, 11/06 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 05. <br> **Deliver:** [Project 05 (eFolio)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project5#project-05-efolio) + All prints +[Reading 08](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading08/Arns_Inke_Read_me_run_me_execute_me%20.pdf) //  in class discussion on the reading.
 12 | Thu, 11/08 | ** Preparing for the exhibition in Herbert Sanders Gallery, located in the IS building. **
-13 | Tue, 11/13 |  **Lecture:** Creative coding. <br> **Lab:** Advanced Tutorials in Processing (digging deeper into conditional statements) <br> **Deliver:** Assignment (Basic Interactivity)
-13 | Thu, 11/15 | **ATC Presentations** 
-14 | Tue, 11/20 | **Lecture:** Processing transition ↣ Getting started with P5.js <br> **Lab:** Intro to P5.js interface and basics. <br> **Deliver:** [Reading 10](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading10/processing-transition.md) //  in class discussion on the reading.
+13 | Tue, 11/13 |  ** Preparing for the exhibition in Herbert Sanders Gallery, located in the IS building. **
+13 | Thu, 11/15 | **ATC Presentations** -- Postponed due to air quality.
+14 | Tue, 11/20 | **Lecture:** Writing code within the context of the visual arts. <br> **Lab:** Intro to Processing ↣ Topics on drawing a sketch with basic programming. <br> **Deliver:** [Reading 09](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading09/hello-processing.md) //  in class discussion on the reading.
 14 | Thu, 11/22 | **Thanksgiving** :poultry_leg:	
-15 | Tue, 11/27 | **Lecture:**  — <br> **Lab:** Advanced Tutorials in P5.js ↣ Transitions and including media. <br> **Deliver:** Assignment 07 (First P5.js Sketch).
-15 | Thu, 11/29 | **Lecture:** — <br> **Lab:** Advanced Tutorials in P5.js  ↣ Motion and addon libraries. <br> **Deliver:** Progress on Project 06.
+15 | Tue, 11/27 | **Lecture:** Processing transition ↣ Getting started with P5.js <br> **Lab:** Intro to P5.js interface and basics. <br> **Deliver:** Assignment (Basic Interactivity) + [Reading 10](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading10/processing-transition.md) //  in class discussion on the reading.
+15 | Thu, 11/29 | **Lecture:** — <br> **Lab:** Advanced Tutorials in P5.js  ↣ Transitions, includiong media, motion and addon libraries. <br> **Deliver:** Assignment 11 (P5.js drawing) + Progress on Project 06.
 16 | Tue, 12/04 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 06. <br> **Deliver:** [Project 06 (ArtWare)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project6#project-06-artware).
-16 | Thu, 12/06 | 
+16 | Thu, 12/06 | **Lecture:** — <br> **Lab:** - <br> **Deliver:** Final paper draft (Progress on Project 07)
 Finals | Tue, 12/11 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of completed website + Potluck! <br> **Deliver:** [Project 07 (Final Paper)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project7-finalpaper#final-paper).
 
 [Back to top](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md#syllabus)
