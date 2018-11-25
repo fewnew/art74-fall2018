@@ -1,0 +1,3 @@
+After watching the video about Processing, I felt very inspired and ready to learn a new programming language. Before this video, I never really heard about Processing, only big coding programs like C++, Java, Python, etc. The whole concept of Processing dealing with art is very intriguing and fun to use.
+
+The use of Processing seems simple and far more easier to use than other coding programs such as C++. Being able to add calculations on your code to make the outcome more precise is interesting since it mixes art with math. This program is starting to become one of my favorite programming languages so far.
