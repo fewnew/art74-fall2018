@@ -1,6 +1,4 @@
  createCanvas(800, 600);
-
-
 function draw() {
   background(57,132,73);
     stroke(width/0, height/0, 200, 200)
