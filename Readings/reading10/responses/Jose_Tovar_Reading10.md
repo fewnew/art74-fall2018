@@ -1,0 +1,3 @@
+The transitions from Processing to p5.js in the reading was very helpful. Processing as a whole seems simple and fairly easy to use but I can see myself making a lot of syntax mistakes with p5.js since I've gotten used to Processing for a while now. The whole process to coding is still a bit new to me so I hope on learning a lot more with p5.js.
+
+p5.js obviously is very similar to processing which can be both good and bad for me since I'm comfortable with processing but I know I'll be making a couple of mistakes along the way. The code in the reading seems intimidating at first glance but I now later on with practice this will all come at ease to me. 

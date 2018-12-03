@@ -1,0 +1,33 @@
+size(800,600);
+stroke(0);
+background(99, 88, 90);
+fill(147, 239, 249);
+strokeWeight(20);
+rect(200,200,400,300);
+smooth(); // Turns on smoothing
+ellipse(400, 200, 90, 90);
+strokeWeight(1);
+beginShape();
+vertex(180, 82);
+vertex(207, 36);
+vertex(214, 63);
+vertex(407, 11);
+vertex(412, 30);
+vertex(219, 82);
+vertex(226, 109);
+endShape();
+smooth();
+// Left creature
+beginShape();
+vertex(50, 120);
+vertex(100, 90);
+vertex(110, 60);
+vertex(80, 20);
+vertex(210, 60);
+vertex(160, 80);
+vertex(200, 90);
+vertex(140, 100);
+vertex(130, 120);
+endShape();
+fill(0);
+ellipse(155, 60, 8, 8);
