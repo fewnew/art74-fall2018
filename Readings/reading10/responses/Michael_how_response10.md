@@ -1,0 +1,1 @@
+Learning Javascript is like a whole new language, but once you start to get the basics down, it comes very easy. Learning the commands and functions and to know exactly what they do will make coding so much more easier. Using p5.js was very helpful to understand the idea of coding, because it shows references and it shows what line the error occurs in. 
