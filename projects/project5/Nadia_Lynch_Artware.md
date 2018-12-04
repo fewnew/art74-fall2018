@@ -1,5 +1,5 @@
 # Nadia Lynch - Artware 
-####Snow Piles
+Snow Piles
 
 #### Medium:
 Processing/p5js 
