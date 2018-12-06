@@ -214,6 +214,6 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 15 | Thu, 11/29 | **Lecture:** — <br> **Lab:** Advanced Tutorials in P5.js  ↣ Transitions, includiong media, motion and addon libraries. <br> **Deliver:** Assignment 11 (P5.js drawing) + Progress on Project 06.
 16 | Tue, 12/04 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 06. <br> **Deliver:** [Project 06 (ArtWare)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project6#project-06-artware).
 16 | Thu, 12/06 | **Lecture:** — <br> **Lab:** - <br> **Deliver:** Final paper draft (Progress on Project 07)
-Finals | Tue, 12/11 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of completed website + Potluck! <br> **Deliver:** [Project 07 (Final Paper)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project7-finalpaper#final-paper).
+Finals | Tue, 12/11 | **NO CLASS: ATC Presentations** <br> **Deliver:** [Project 07 (Final Paper)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project7-finalpaper#final-paper).
 
 [Back to top](https://github.com/fewnew/art74-fall2018/blob/master/syllabus.md#syllabus)
