@@ -1,0 +1,3 @@
+I found this video very helpful for me. It help me understand what Processing is. I kind of want to learn more about this program. I kind already know the basics of java script but, I want to know more of what I can create and how I can use that knowledge to create something very amazing and unique.
+
+Figuring out the different measurements of each of the ellipse, triangles and all of the other shapes feels like Freshmen geometry all over again. This feels like math but online and a little bit more challenging but, I feel like I can handle this will and I feel liek I really want to know more about this program and far can this program can really go with the stuff that I can construct on here. 
