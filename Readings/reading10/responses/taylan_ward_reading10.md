@@ -1,0 +1,3 @@
+To me this is very hard to take in on the first read. I have to read it a couple of times to really understand everything that is on here. I also have to look and use these codes to be ale to learn them. Because looking at this page straight up for me is very hard and confusing because it talks about so many different things and codes.
+
+However, if I really study this and put my time and effort in learning this material I would be able to comprehend it really easily and understand what i am learning and what i am doing in my codes. It looks very confusing at first but if you reread it and pay attention to crucial parts you will be able to understand it really fast and get the hang of it.
