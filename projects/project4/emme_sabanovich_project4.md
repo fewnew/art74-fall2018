@@ -14,4 +14,4 @@ class over the semester. An introduction to incorporate what we have learned ove
 representation of my digital art work which includes giphcards, 3D scultping, software art, and video art and more.
 ***
 Link to website:
-http://driedbluroses.github.io
+http://driedblueroses.github.io
