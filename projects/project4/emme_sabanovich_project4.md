@@ -13,4 +13,5 @@ This is my digital art work portfolio/website created to incorporate most of the
 class over the semester. An introduction to incorporate what we have learned over the semester into a more cohesive 
 representation of my digital art work which includes giphcards, 3D scultping, software art, and video art and more.
 ***
-Link to website:http://driedbluroses.github.io
+Link to website:
+http://driedbluroses.github.io
