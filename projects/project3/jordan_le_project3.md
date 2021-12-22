@@ -4,7 +4,7 @@
 
 ### Medium: 3D Sketch
 
-### Dimensions: TBD
+### Dimensions: Desktop
 
 ### Attributions: polygoogle, meshmixer, sketchfab
 
